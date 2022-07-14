@@ -1,0 +1,15 @@
+containers:
+  doc-builder:
+    image: structurizr/lite
+    volumes:
+      - local: ./docs
+        container: /usr/local/structurizr
+    ports:
+      - local: 8090
+        container: 8080
+
+tasks:
+  docs:
+    description: Run the docs builder
+    run:
+      container: doc-builder
