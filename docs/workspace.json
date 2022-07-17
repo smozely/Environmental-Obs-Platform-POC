@@ -3,10 +3,10 @@
   "name" : "Environmental Observations",
   "description" : "POC for Environmental Observations",
   "revision" : 0,
-  "lastModifiedDate" : "2022-07-17T20:51:48Z",
-  "lastModifiedAgent" : "structurizr-web/2763/diagram",
+  "lastModifiedDate" : "2022-07-17T22:54:40Z",
+  "lastModifiedAgent" : "structurizr-web/2762/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlICJFbnZpcm9ubWVudGFsIE9ic2VydmF0aW9ucyIgIlBPQyBmb3IgRW52aXJvbm1lbnRhbCBPYnNlcnZhdGlvbnMiIHsKCiAgICBtb2RlbCB7CgogICAgICAgIGZpZWxkX2RldmljZXMgPSBzb2Z0d2FyZVN5c3RlbSAiVGVsZW1ldHJ5IERldmljZXMiICJDb3VuY2lsIE1hbmFnZWQgVGVsZW1ldHJ5IGNhcHR1cmluZyBkZXZpY2VzLiBlLmcuIFJpdmVyIEd1YWdlcywgUmFpbmZhbGwgTWV0ZXJzLCBBaXIgUXVhbGl0eSBTZW5zb3JzIiAiRXhpc3RpbmcgU3lzdGVtIgogICAgICAgIGZpZWxkX2NhcHR1cmVfYXBwcyA9IHNvZnR3YXJlU3lzdGVtICJGaWVsZCBDYXB0dXJlIFRvb2xzIiAiRmllbGQgdG9vbHMgdXNlZCBieSBDb3VuY2lsIHN0YWZmIHRvIGNhcHR1cmUgT2JzZXJ2YXRpb25zLiBlLmcuIFdhdGVyIFF1YWxpdHkgU2FtcGxlcywgRWNvc3lzdGVtIGhlYWx0aCBzdXJ2ZXkiICJNb2JpbGUgQXBwIgoKICAgICAgICBzYW1wbGVfcHJvY2Vzc2luZ19sYWJzID0gc29mdHdhcmVTeXN0ZW0gIlByb2Nlc3NpbmcgTGFicyIgIkxhYm9yYXRvcmllcyB0aGF0IHByb2Nlc3NlcyBmaWVsZCBzYW1wbGVzIiAiRXhpc3RpbmcgU3lzdGVtIgoKCiAgICAgICAgZXh0ZXJuYWxfZGF0YV9mZWVkcyA9IHNvZnR3YXJlU3lzdGVtICJFeHRlcm5hbCBEYXRhIEZlZWRzIiAiVGhpcmQgcGFydHkgZGF0YSBiZWluZyBwdXNoZWQgZS5nLiBDb25zZW50IEhvbGRlciBXYXRlciBBYnN0cmFjdGlvbiBJbmZvcm1hdGlvbiwgQ2l0aXplbiBTY2llbmNlIiAiRXhpc3RpbmcgU3lzdGVtIgogICAgICAgIGV4dGVybmFsX2RhdGFfc3RvcmVzID0gc29mdHdhcmVTeXN0ZW0gIkV4dGVybmFsIERhdGEgU291cmNlcyIgIlRoaXJkIHBhcnR5IGRhdGEgd2hpY2ggY2FuIGJlIHB1bGxlZCBlLmcuIE1ldHNlcnZpY2UgY29kZWQgZGF0YSIgIkV4aXN0aW5nIFN5c3RlbSIKICAgICAgICAKICAgICAgICBleHRlcm5hbF9kYXRhX2NsaWVudF9wdXNoID0gc29mdHdhcmVzeXN0ZW0gIkV4dGVybmFsIERhdGEgU3RvcmVzIiAiRXh0ZXJuYWwgc3lzdGVtcyB3aGVyZSBkYXRhIGlzIHB1c2hlZCB0by4gZS5nLiBMQVdBLCBDb3JlLTE2IiAiRXhpc3RpbmcgU3lzdGVtIgogICAgICAgIGV4dGVybmFsX2RhdGFfY2xpZW50X3B1bGwgPSBzb2Z0d2FyZXN5c3RlbSAiRXh0ZXJuYWwgRGF0YSBDbGllbnRzIiAiRXh0ZXJuYWwgc3lzdGVtcyB0aGF0IHB1bGwgZGF0YS4gZS5nLiBBcHBsaWNhdGlvbiBEZXZlbG9wZXJzLCBFbmdpbmVlcmluZyBGaXJtcywgTklXQSIgIkV4aXN0aW5nIFN5c3RlbSIKCgoKICAgICAgICBlbnRlcnByaXNlID0gZW50ZXJwcmlzZSAiQ291bmNpbCIgIHsKICAgICAgICAgICAgaHlkcm90ZWwgPSBzb2Z0d2FyZXN5c3RlbSAiSHlkcm90ZWwgU3lzdGVtIiAiSHlkcm90ZWwgd2hlcmUgVGVsZW1ldHJ5IGRhdGEgbGFuZHMgZmlyc3QuIiAiRXhpc3RpbmcgU3lzdGVtIgogICAgICAgICAgICBpbnRlcm5hbF9jYXB0dXJlX3N5c3RlbXMgPSBzb2Z0d2FyZXN5c3RlbSAiSW50ZXJuYWwgRGF0YSBDYXB0dXJlIFN5c3RlbXMiICJPdGhlciBjb3VuY2lsIHRvb2xzIHdoaWNoIGFyZSBjYXB0dXJpbmcgZGF0YS4gZS5nLiBLaUVDTywgU3VydmV5IDEyMyIgIkV4aXN0aW5nIFN5c3RlbSIKICAgICAgICAgICAgbWFuYWdlciA9IHBlcnNvbiAiRGF0YSBNYW5hZ2VyIiAiUGVyc29uIHdobyBRQSdzIFRlbGVtZXRyeSBkYXRhIiAiQ291bmNpbCBTdGFmZiIgCgogICAgICAgICAgICBjb3JlID0gZ3JvdXAgIkVudmlyb25tZW50YWwgT2JzZXJ2YXRpb25zIENvcmUiIHsgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBlb20gPSBzb2Z0d2FyZVN5c3RlbSAiQXF1aXNpdGlvbiBhbmQgTWFuYWdlbWVudCIgIldoZXJlIG5ldyBPYnNlcnZhdGlvbnMgYXJlIGxhbmRlZCBhbmQgUUEgcHJvY2Vzc2VzIGRvbmUuIFRyYW5zYWN0aW9uYWwgc2lkZSBvZiBtYW5hZ2luZyBkYXRhIGUuZy4gTWFuYWdpbmcgd2hpY2ggVGVsZW1ldHJ5IGRhdGEgcmVxdWlyZXMgUUEsIGFuZCB0b29scyB0byBhcHBseSBxdWFsaXR5IGNvZGluZCIKICAgICAgICAgICAgICAgIGVvYSA9IHNvZnR3YXJlU3lzdGVtICJBbmFseXRpY3MgYW5kIEV4cG9ydCIgIldoZXJlIE9ic2VydmF0aW9uYWwgZGF0YSBpcyBzdG9yZWQgYW5kIGV4cG9zZWQgZm9yIGFuYWx5dGljYWwgcXVlcmllcy4gZS5nLiBEYWlseSBzdGF0aXN0aWNzIgogICAgICAgICAgICAgICAgZW9wID0gc29mdHdhcmVTeXN0ZW0gIkV2ZW50IERyaXZlbiBBbmFseXNpcyAvIEFsZXJ0aW5nIiAiV2hlcmUgT2JzZXJ2YXRpb25hbCBkYXRhIGlzIHByb2Nlc3NlZCB0byBjcmVhdGVkIGRlcml2ZWQgT2JzZXJ2YXRpb25zLCB0cmlnZ2VyIGF1dG9tYXRlZCBRQSBwcm9jZXNzZXMgb3IgYWxlcnRpbmcgYmFzZWQgb24gZGF0YSBhbm9tYWxpZXMuIEV2ZW50IGRyaXZlbiBvciBiYXRjaC4gZS5nLiBHYXVnaW5ncyB0byBGbG93LCBOYXR1cmFsaXplZCBmbG93cywgRGF0YSBhbm9tYWxpZXMgaWRlbnRpZmllZCIKICAgICAgICAgICAgfSAgICAgICAgICAgIAoKICAgICAgICAgICAgcmVnaW9uYWxfcGxhbiA9IHNvZnR3YXJlU3lzdGVtICJSZWdpb25hbCBQbGFuIiAiQVBJIGZvciBhY2Nlc3NpbmcgcmVnaW9uYWwgcGxhbiIgIkV4aXN0aW5nIFN5c3RlbSIKICAgICAgICAgICAgcmVzb3VyY2VfY29uc2VudHMgPSBzb2Z0d2FyZVN5c3RlbSAiUmVzb3VyY2UgQ29uc2VudCIgIkFQSSBmb3IgYWNjZXNzaW5nIGNvbnNlbnRpbmcgaW5mb3JtYXRpb24iICJFeGlzdGluZyBTeXN0ZW0iCgogICAgICAgICAgICBwdWJsaWNfZmFjaW5nX3dlYl9zaXRlID0gc29mdHdhcmVTeXN0ZW0gIkNvdW5jaWwgcHVibGljIGZhY2luZyBXZWJzaXRlIHdpdGggRW52aXJvbm1lbnRhbCBkYXRhLiBlLmcuIEZsb3cgVmlld2VycywgV2F0ZXIgUXVhbGl0eSBSZXBvcnRpbmciICAgICAgICAgICAgIAogICAgICAgICAgICBpbnRlcm5hbF9yZXBvcnRpbmdfc3lzdGVtcyA9IHNvZnR3YXJlU3lzdGVtICJEYXRhIHJlcG9ydGluZyBzeXN0ZW1zLiBlLmcuIEdJUyBWaWV3ZXJzLCBQb3dlciBCSSBSZXBvcnRzIiAKICAgICAgICAgICAgaW50ZXJuYWxfbW9uaXRvcmluZ19zeXN0ZW1zID0gc29mdHdhcmVTeXN0ZW0gIlN5c3RlbXMgZm9yIG1vbml0b3JpbmcgbGl2ZSBzaXR1YXRpb24uIGUuZy4gRmxvb2QgTW9uaXRvcmluZywgQ2l2aWwgRGVmZW5jZSBBbGVydGluZyIgCiAgICAgICAgICAgIGludGVybmFsX2J1c2luZXNzX3Byb2Nlc3Nfc3lzdGVtcyA9IHNvZnR3YXJlU3lzdGVtICJJbnRlcm5hbCBkYXRhIHJlcG9ydGluZyBzeXN0ZW1zLiBlLmcuIEdJUyBWaWV3ZXJzLCBQb3dlciBCSSBSZXBvcnRzIiAKICAgICAgICAgICAgb3RoZXJfYnVzaW5lc3NfZGF0YV9zdG9yZSA9IHNvZnR3YXJlU3lzdGVtICJTeXN0ZW1zIHRoYXQgbWFuYWdlIG90aGVyIGNvdW5jaTsgZGF0YSB0aGF0IGlzIG1lcmdlZCB3aXRoIE9ic2VydmF0aW9ucyBhcyBwYXJ0IG9mIGJ1c2luZXNzIHByb2Nlc3MuIGUuZy4gQ29uc2VudHMgbWF0aGVkIHdpdGggd2F0ZXIgdXNlIiAiRXhpc3RpbmcgU3lzdGVtIgogICAgICAgIH0KCgoKCiAgICAKICAgICAgICBmaWVsZF9kZXZpY2VzIC0+IGh5ZHJvdGVsICJTZW5kaW5nIGxhdGVzdCBPYnNlcnZhdGlvbnMgdG8iCiAgICAgICAgZmllbGRfY2FwdHVyZV9hcHBzIC0+IGVvbSAiU2VuZCBmaWVsZCBjYXB0dXJlZCBPYnNlcnZhdGlvbnMgdG8iCiAgICAgICAgZmllbGRfY2FwdHVyZV9hcHBzIC0+IGVvbSAiU2VuZCBmaWVsZCBjYXB0dXJlZCBPYnNlcnZhdGlvbnMgdG8iCiAgICAgICAgCiAgICAgICAgaHlkcm90ZWwgLT4gZW9tICJTZW5kcyBsYXRlc3QgZGF0YSB0byIKICAgICAgICBpbnRlcm5hbF9jYXB0dXJlX3N5c3RlbXMgLT4gZW9tICJTZW5kcyBsYXRlc3QgZGF0YSB0byIKICAgICAgICBleHRlcm5hbF9kYXRhX2ZlZWRzIC0+IGVvbSAiU2VuZHMgbGF0ZXN0IGRhdGEgdG8iCiAgICAgICAgZXh0ZXJuYWxfZGF0YV9zdG9yZXMgLT4gZW9tICJEYXRhIHB1bGxlZCBmcm9tIgogICAgICAgIAogICAgICAgIG1hbmFnZXIgLT4gZW9tICJSZXZpZXdzIHRlbGVtZXRyeSBkYXRhIGFuZCBtYXJrcyBhcyBRQSdlZCIKICAgICAgICAKICAgICAgICBlb20gLT4gZW9hICJSZXBsaWNhdGVzIGRhdGEgdG8iCiAgICAgICAgZW9tIC0+IGVvcCAiUHVzaGVzIG5ldyBkYXRhIGV2ZW50cyB0byIKICAgICAgICBlb2EgLT4gZW9wICJSZWFkcyBkYXRhIGZyb20iCiAgICAgICAgZW9wIC0+IGVvbSAiUHVzaGVzIGRlcml2ZWQgT2JzZXJ2YXRpb25zIHRvIgogICAgCiAgICAgICAgZW9hIC0+IGV4dGVybmFsX2RhdGFfY2xpZW50X3B1c2ggIlNlbmRzIGRhdGEgdG8iCiAgICAgICAgZW9hIC0+IGV4dGVybmFsX2RhdGFfY2xpZW50X3B1bGwgIlB1bGwgZGF0YSBmcm9tIgoKICAgICAgICBlb2EgLT4gcHVibGljX2ZhY2luZ193ZWJfc2l0ZSAiU2VuZHMgZGF0YSB0byIKICAgICAgICBlb20gLT4gcHVibGljX2ZhY2luZ193ZWJfc2l0ZSAiU2VuZHMgbGl2ZSBkYXRhIHRvIgoKICAgICAgICBlb2EgLT4gaW50ZXJuYWxfcmVwb3J0aW5nX3N5c3RlbXMgIlNlbmRzIHJlcG9ydGluZyBkYXRhIHRvIgoKICAgICAgICBlb20gLT4gaW50ZXJuYWxfbW9uaXRvcmluZ19zeXN0ZW1zICJQdXNoZXMgbGF0ZXN0IGRhdGEgdG8iCiAgICAgICAgCiAgICAgICAgZW9hIC0+IGludGVybmFsX2J1c2luZXNzX3Byb2Nlc3Nfc3lzdGVtcyAiU2VuZHMgZGF0YSB0byIKICAgICAgICBlb20gLT4gaW50ZXJuYWxfYnVzaW5lc3NfcHJvY2Vzc19zeXN0ZW1zICJTZW5kcyBsaXZlIGRhdGEgdG8iCiAgICAgICAgb3RoZXJfYnVzaW5lc3NfZGF0YV9zdG9yZSAtPiBpbnRlcm5hbF9idXNpbmVzc19wcm9jZXNzX3N5c3RlbXMgIlNlbmRzIG5vbi1FbnZpcm9ubWVudCBkYXRhIHRvIgogICAgfQogICAgCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtTGFuZHNjYXBlICJTeXN0ZW1MYW5kc2NhcGUiICJPdmVydmlldyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGZvbnRTaXplIDIyCiAgICAgICAgICAgICAgICBzaGFwZSBQZXJzb24KICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgZWxlbWVudCAiQ291bmNpbCBTdGFmZiIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMDg0MjdiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIGVsZW1lbnQgIlNvZnR3YXJlIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMTE2OGJkCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIGVsZW1lbnQgIkV4aXN0aW5nIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGVsZW1lbnQgIk1vYmlsZSBBcHAiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgI0ZGOTkwMAogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICAgICAgc2hhcGUgTW9iaWxlRGV2aWNlTGFuZHNjYXBlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgfQogICAgfQoKfQo="
+    "structurizr.dsl" : "d29ya3NwYWNlICJFbnZpcm9ubWVudGFsIE9ic2VydmF0aW9ucyIgIlBPQyBmb3IgRW52aXJvbm1lbnRhbCBPYnNlcnZhdGlvbnMiIHsKCiAgICBtb2RlbCB7CgogICAgICAgIGZpZWxkX2NvbGxlY3RvciA9IHBlcnNvbiAiRmllbGQgQ29sbGVjdG9yIiAiVXNlciB3aG8gaXMgdGFraW5nIE9ic2VydmF0aW9ucyAvIFNhbXBsZXMgaW4gdGhlIGZpZWxkIiAiQ291bmNpbCBTdGFmZiIgCiAgICAgICAgZmllbGRfZGV2aWNlcyA9IHNvZnR3YXJlU3lzdGVtICJUZWxlbWV0cnkgRGV2aWNlcyIgIkNvdW5jaWwgTWFuYWdlZCBUZWxlbWV0cnkgY2FwdHVyaW5nIGRldmljZXMuIGUuZy4gUml2ZXIgR3VhZ2VzLCBSYWluZmFsbCBNZXRlcnMsIEFpciBRdWFsaXR5IFNlbnNvcnMiICJFeGlzdGluZyBTeXN0ZW0iCiAgICAgICAgZmllbGRfY2FwdHVyZV9hcHBzID0gc29mdHdhcmVTeXN0ZW0gIkZpZWxkIENhcHR1cmUgVG9vbHMiICJGaWVsZCB0b29scyB1c2VkIGJ5IENvdW5jaWwgc3RhZmYgdG8gY2FwdHVyZSBPYnNlcnZhdGlvbnMuIGUuZy4gV2F0ZXIgUXVhbGl0eSBTYW1wbGVzLCBFY29zeXN0ZW0gaGVhbHRoIHN1cnZleSIgIk1vYmlsZSBBcHAiCgogICAgICAgIHNhbXBsZV9wcm9jZXNzaW5nX2xhYnMgPSBzb2Z0d2FyZVN5c3RlbSAiUHJvY2Vzc2luZyBMYWJzIiAiTGFib3JhdG9yaWVzIHRoYXQgcHJvY2Vzc2VzIGZpZWxkIHNhbXBsZXMiICJFeGlzdGluZyBTeXN0ZW0iCgogICAgICAgIGV4dGVybmFsX2RhdGFfZmVlZHMgPSBzb2Z0d2FyZVN5c3RlbSAiRXh0ZXJuYWwgRGF0YSBGZWVkcyIgIlRoaXJkIHBhcnR5IGRhdGEgYmVpbmcgcHVzaGVkIGUuZy4gQ29uc2VudCBIb2xkZXIgV2F0ZXIgQWJzdHJhY3Rpb24gSW5mb3JtYXRpb24sIENpdGl6ZW4gU2NpZW5jZSIgIkdlbmVyaWMgU3lzdGVtIgogICAgICAgIGV4dGVybmFsX2RhdGFfc3RvcmVzID0gc29mdHdhcmVTeXN0ZW0gIkV4dGVybmFsIERhdGEgU291cmNlcyIgIlRoaXJkIHBhcnR5IGRhdGEgd2hpY2ggY2FuIGJlIHB1bGxlZCBlLmcuIE1ldHNlcnZpY2UgY29kZWQgZGF0YSIgIkdlbmVyaWMgU3lzdGVtIgogICAgICAgIAogICAgICAgIGV4dGVybmFsX2RhdGFfY2xpZW50X3B1c2ggPSBzb2Z0d2FyZXN5c3RlbSAiRXh0ZXJuYWwgRGF0YSBTdG9yZXMiICJFeHRlcm5hbCBzeXN0ZW1zIHdoZXJlIGRhdGEgaXMgcHVzaGVkIHRvLiBlLmcuIExBV0EsIENvcmUtMTYiICJHZW5lcmljIFN5c3RlbSIKICAgICAgICBleHRlcm5hbF9kYXRhX2NsaWVudF9wdWxsID0gc29mdHdhcmVzeXN0ZW0gIkV4dGVybmFsIERhdGEgQ2xpZW50cyIgIkV4dGVybmFsIHN5c3RlbXMgdGhhdCBwdWxsIGRhdGEuIGUuZy4gQXBwbGljYXRpb24gRGV2ZWxvcGVycywgRW5naW5lZXJpbmcgRmlybXMsIE5JV0EiICJHZW5lcmljIFN5c3RlbSIKCiAgICAgICAgZW50ZXJwcmlzZSA9IGVudGVycHJpc2UgIkNvdW5jaWwiICB7CiAgICAgICAgICAgIGh5ZHJvdGVsID0gc29mdHdhcmVzeXN0ZW0gIkh5ZHJvdGVsIFN5c3RlbSIgIkh5ZHJvdGVsIHdoZXJlIFRlbGVtZXRyeSBkYXRhIGxhbmRzIGZpcnN0LiIgIkV4aXN0aW5nIFN5c3RlbSIKICAgICAgICAgICAgaW50ZXJuYWxfY2FwdHVyZV9zeXN0ZW1zID0gc29mdHdhcmVzeXN0ZW0gIkludGVybmFsIERhdGEgQ2FwdHVyZSBTeXN0ZW1zIiAiT3RoZXIgY291bmNpbCB0b29scyB3aGljaCBhcmUgY2FwdHVyaW5nIGRhdGEuIGUuZy4gS2lFQ08sIEFjY2VzcyBEYXRhYmFzZXMiICJFeGlzdGluZyBTeXN0ZW0iCiAgICAgICAgICAgIG1hbmFnZXIgPSBwZXJzb24gIk9ic2VydmF0aW9ucyBjdXN0b2RpYW4iICJVc2VyIHdobyBpcyBhIGN1c3RvZGlhbiBvZiBPYnNlcnZhdGlvbiBkYXRhLiBDYW4gUUEgb2JzZXJ2YXRpb25zIiAiQ291bmNpbCBTdGFmZiIgCgogICAgICAgICAgICBjb3JlID0gZ3JvdXAgIkVETVMiIHsgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBlb20gPSBzb2Z0d2FyZVN5c3RlbSAiQXF1aXNpdGlvbiBhbmQgTWFuYWdlbWVudCIgIldoZXJlIG5ldyBPYnNlcnZhdGlvbnMgYXJlIGxhbmRlZCBhbmQgUUEgcHJvY2Vzc2VzIGRvbmUuIFRyYW5zYWN0aW9uYWwgc2lkZSBvZiBtYW5hZ2luZyBkYXRhIGUuZy4gTWFuYWdpbmcgd2hpY2ggVGVsZW1ldHJ5IGRhdGEgcmVxdWlyZXMgUUEsIGFuZCB0b29scyB0byBhcHBseSBxdWFsaXR5IGNvZGluZCIKICAgICAgICAgICAgICAgIGVvYSA9IHNvZnR3YXJlU3lzdGVtICJBbmFseXRpY3MgYW5kIEV4cG9ydCIgIldoZXJlIE9ic2VydmF0aW9uYWwgZGF0YSBpcyBzdG9yZWQgYW5kIGV4cG9zZWQgZm9yIGFuYWx5dGljYWwgcXVlcmllcy4gZS5nLiBEYWlseSBzdGF0aXN0aWNzIiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfSAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgZW9wID0gc29mdHdhcmVTeXN0ZW0gIkV2ZW50IERyaXZlbiBBbmFseXNpcyAvIEFsZXJ0aW5nIiAiV2hlcmUgT2JzZXJ2YXRpb25hbCBkYXRhIGlzIHByb2Nlc3NlZCB0byBjcmVhdGVkIGRlcml2ZWQgT2JzZXJ2YXRpb25zLCB0cmlnZ2VyIGF1dG9tYXRlZCBRQSBwcm9jZXNzZXMgb3IgYWxlcnRpbmcgYmFzZWQgb24gZGF0YSBhbm9tYWxpZXMuIEV2ZW50IGRyaXZlbiBvciBiYXRjaC4gZS5nLiBHYXVnaW5ncyB0byBGbG93LCBOYXR1cmFsaXplZCBmbG93cywgRGF0YSBhbm9tYWxpZXMgaWRlbnRpZmllZCIKCiAgICAgICAgICAgIG1vbml0b3JpbmdfbmV0d29yayA9IHNvZnR3YXJlU3lzdGVtICJHZW9zcGF0aWFsIE1vbml0b3JpbmcgTmV0d29yayIgIkFQSSBmb3IgYWNjZXNzIHRvIHRoZSBHZW9zcGF0aWFsICIKICAgICAgICAgICAgcmVnaW9uYWxfcGxhbiA9IHNvZnR3YXJlU3lzdGVtICJEaWdpdGlzZWQgUmVnaW9uYWwgUGxhbiIgIkFQSSBmb3IgYWNjZXNzaW5nIHJlZ2lvbmFsIHBsYW4iCiAgICAgICAgICAgIHJlc291cmNlX2NvbnNlbnRzID0gc29mdHdhcmVTeXN0ZW0gIklSSVMgLSBSZXNvdXJjZSBDb25zZW50cyIgIlByb3ZpZGVzIHJlc291cmNlIGNvbnNlbnQgaW5mb3JtYXRpb24iICJFeGlzdGluZyBTeXN0ZW0iCgogICAgICAgICAgICBncm91cCAiRW1lcmdlbmN5IE1vbml0b3JpbmciIHsKICAgICAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtICJGbG9vZCBQcmVkaWN0aW9uIiAiIiAiV2ViIEFwcCIKICAgICAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtICJGbG9vZCBFdmVudCBNb25pdG9yaW5nIiAiIiAiTW9iaWxlIEFwcCIgICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGdyb3VwICJDb25zZW50aW5nIiB7CiAgICAgICAgICAgICAgICBzb2Z0d2FyZVN5c3RlbSAiQWxsb2NhdGlvbnMiICIiICJXZWIgQXBwIiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZ3JvdXAgIkNvbXBsaWFuY2UiIHsKICAgICAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtICJDb21wbGljYW5jZSBDaGVja2luZyIgIiIgIldlYiBBcHAiCiAgICAgICAgICAgICAgICBzb2Z0d2FyZVN5c3RlbSAiQ29tcGxpY2FuY2UgQWxlcnRpbmciICIiICJXZWIgQXBwIgogICAgICAgICAgICB9CgogICAgICAgICAgICBncm91cCAiUGxhbm5pbmciIHsKICAgICAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtICJQbGFuIHZzIExpbWl0cyIgIiIgIldlYiBBcHAiICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICBncm91cCAiUHVibGljIiB7CiAgICAgICAgICAgICAgICBwdWJsaWNfZmFjaW5nX3dlYl9zaXRlID0gc29mdHdhcmVTeXN0ZW0gIkNvdW5jaWwgcHVibGljIFdlYnNpdGUiICJDb3VuY2lsIHdlYnNpdGUgd2l0aCBFbnZpcm9ubWVudGFsIGRhdGEuIGUuZy4gRmxvdyBWaWV3ZXJzLCBXYXRlciBRdWFsaXR5IFJlcG9ydGluZyIgIldlYiBBcHAiCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICMgaW50ZXJuYWxfcmVwb3J0aW5nX3N5c3RlbXMgPSBzb2Z0d2FyZVN5c3RlbSAiRGF0YSByZXBvcnRpbmcgc3lzdGVtcy4gZS5nLiBHSVMgVmlld2VycywgUG93ZXIgQkkgUmVwb3J0cyIgCiAgICAgICAgICAgICMgaW50ZXJuYWxfbW9uaXRvcmluZ19zeXN0ZW1zID0gc29mdHdhcmVTeXN0ZW0gIlN5c3RlbXMgZm9yIG1vbml0b3JpbmcgbGl2ZSBzaXR1YXRpb24uIGUuZy4gRmxvb2QgTW9uaXRvcmluZywgQ2l2aWwgRGVmZW5jZSBBbGVydGluZyIgCiAgICAgICAgICAgICMgaW50ZXJuYWxfYnVzaW5lc3NfcHJvY2Vzc19zeXN0ZW1zID0gc29mdHdhcmVTeXN0ZW0gIkludGVybmFsIGRhdGEgcmVwb3J0aW5nIHN5c3RlbXMuIGUuZy4gR0lTIFZpZXdlcnMsIFBvd2VyIEJJIFJlcG9ydHMiIAogICAgICAgICAgICAjIG90aGVyX2J1c2luZXNzX2RhdGFfc3RvcmUgPSBzb2Z0d2FyZVN5c3RlbSAiU3lzdGVtcyB0aGF0IG1hbmFnZSBvdGhlciBjb3VuY2k7IGRhdGEgdGhhdCBpcyBtZXJnZWQgd2l0aCBPYnNlcnZhdGlvbnMgYXMgcGFydCBvZiBidXNpbmVzcyBwcm9jZXNzLiBlLmcuIENvbnNlbnRzIG1hdGhlZCB3aXRoIHdhdGVyIHVzZSIgIkV4aXN0aW5nIFN5c3RlbSIKICAgICAgICB9CiAgICAKICAgICAgICBmaWVsZF9kZXZpY2VzIC0+IGh5ZHJvdGVsICJTZW5kaW5nIGxhdGVzdCBPYnNlcnZhdGlvbnMgdG8iCgogICAgICAgIGZpZWxkX2NvbGxlY3RvciAtPiBmaWVsZF9jYXB0dXJlX2FwcHMgIkNhcHR1cmVzIE9ic2VydmF0aW9ucyBpbiIKICAgICAgICBmaWVsZF9jb2xsZWN0b3IgLT4gc2FtcGxlX3Byb2Nlc3NpbmdfbGFicyAiU2VuZHMgc2FtcGxlcyB0byIKICAgICAgICBmaWVsZF9jYXB0dXJlX2FwcHMgLT4gZW9tICJTZW5kIGZpZWxkIGNhcHR1cmVkIE9ic2VydmF0aW9ucyB0byIKICAgICAgICBzYW1wbGVfcHJvY2Vzc2luZ19sYWJzIC0+IGVvbSAiU2VuZCBwcm9jZXNzZWQgc2FtcGxlIE9ic2VydmF0aW9ucyB0byIKICAgICAgICAKICAgICAgICBoeWRyb3RlbCAtPiBlb20gIlNlbmRzIGxhdGVzdCBkYXRhIHRvIgogICAgICAgIGludGVybmFsX2NhcHR1cmVfc3lzdGVtcyAtPiBlb20gIlNlbmRzIGxhdGVzdCBkYXRhIHRvIgogICAgICAgIGV4dGVybmFsX2RhdGFfZmVlZHMgLT4gZW9tICJTZW5kcyBsYXRlc3QgZGF0YSB0byIKICAgICAgICBleHRlcm5hbF9kYXRhX3N0b3JlcyAtPiBlb20gIkRhdGEgcHVsbGVkIGZyb20iCiAgICAgICAgCiAgICAgICAgbWFuYWdlciAtPiBlb20gIlJldmlld3MgdGVsZW1ldHJ5IGRhdGEgYW5kIG1hcmtzIGFzIFFBJ2VkIgogICAgICAgIAogICAgICAgIGVvbSAtPiBlb2EgIlJlcGxpY2F0ZXMgZGF0YSB0byIKICAgICAgICBlb20gLT4gZW9wICJQdXNoZXMgbmV3IGRhdGEgZXZlbnRzIHRvIgogICAgICAgIGVvYSAtPiBlb3AgIlJlYWRzIGRhdGEgZnJvbSIKICAgICAgICBlb3AgLT4gZW9tICJQdXNoZXMgZGVyaXZlZCBPYnNlcnZhdGlvbnMgdG8iCiAgICAKICAgICAgICBlb2EgLT4gZXh0ZXJuYWxfZGF0YV9jbGllbnRfcHVzaCAiU2VuZHMgZGF0YSB0byIKICAgICAgICBlb2EgLT4gZXh0ZXJuYWxfZGF0YV9jbGllbnRfcHVsbCAiUHVsbCBkYXRhIGZyb20iCgogICAgICAgIGVvYSAtPiBwdWJsaWNfZmFjaW5nX3dlYl9zaXRlICJTZW5kcyBkYXRhIHRvIgogICAgICAgIGVvbSAtPiBwdWJsaWNfZmFjaW5nX3dlYl9zaXRlICJTZW5kcyBsaXZlIGRhdGEgdG8iCgogICAgICAgICMgZW9hIC0+IGludGVybmFsX3JlcG9ydGluZ19zeXN0ZW1zICJTZW5kcyByZXBvcnRpbmcgZGF0YSB0byIKCiAgICAgICAgIyBlb20gLT4gaW50ZXJuYWxfbW9uaXRvcmluZ19zeXN0ZW1zICJQdXNoZXMgbGF0ZXN0IGRhdGEgdG8iCiAgICAgICAgCiAgICAgICAgIyBlb2EgLT4gaW50ZXJuYWxfYnVzaW5lc3NfcHJvY2Vzc19zeXN0ZW1zICJTZW5kcyBkYXRhIHRvIgogICAgICAgICMgZW9tIC0+IGludGVybmFsX2J1c2luZXNzX3Byb2Nlc3Nfc3lzdGVtcyAiU2VuZHMgbGl2ZSBkYXRhIHRvIgogICAgICAgICMgb3RoZXJfYnVzaW5lc3NfZGF0YV9zdG9yZSAtPiBpbnRlcm5hbF9idXNpbmVzc19wcm9jZXNzX3N5c3RlbXMgIlNlbmRzIG5vbi1FbnZpcm9ubWVudCBkYXRhIHRvIgogICAgfQogICAgCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtTGFuZHNjYXBlICJTeXN0ZW1MYW5kc2NhcGUiICJPdmVydmlldyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGZvbnRTaXplIDIyCiAgICAgICAgICAgICAgICBzaGFwZSBQZXJzb24KICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgZWxlbWVudCAiQ291bmNpbCBTdGFmZiIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMDg0MjdiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIGVsZW1lbnQgIlNvZnR3YXJlIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMTE2OGJkCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIGVsZW1lbnQgIkV4aXN0aW5nIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGVsZW1lbnQgIkdlbmVyaWMgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICNGRkI2QzEKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZWxlbWVudCAiV2ViIEFwcCIgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjRkY5OTAwCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGVsZW1lbnQgIk1vYmlsZSBBcHAiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgI0ZGOTkwMAogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICAgICAgc2hhcGUgTW9iaWxlRGV2aWNlTGFuZHNjYXBlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgfQogICAgfQoKfQo="
   },
   "configuration" : { },
   "model" : {
@@ -14,272 +14,292 @@
       "name" : "Council"
     },
     "people" : [ {
-      "id" : "10",
+      "id" : "1",
       "tags" : "Element,Person,Council Staff",
-      "name" : "Data Manager",
-      "description" : "Person who QA's Telemetry data",
+      "name" : "Field Collector",
+      "description" : "User who is taking Observations / Samples in the field",
       "relationships" : [ {
         "id" : "27",
         "tags" : "Relationship",
-        "sourceId" : "10",
-        "destinationId" : "11",
+        "sourceId" : "1",
+        "destinationId" : "4",
+        "description" : "Sends samples to"
+      }, {
+        "id" : "26",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "3",
+        "description" : "Captures Observations in"
+      } ],
+      "location" : "External"
+    }, {
+      "id" : "11",
+      "tags" : "Element,Person,Council Staff",
+      "name" : "Observations custodian",
+      "description" : "User who is a custodian of Observation data. Can QA observations",
+      "relationships" : [ {
+        "id" : "34",
+        "tags" : "Relationship",
+        "sourceId" : "11",
+        "destinationId" : "12",
         "description" : "Reviews telemetry data and marks as QA'ed"
       } ],
       "location" : "Internal"
     } ],
     "softwareSystems" : [ {
-      "id" : "20",
-      "tags" : "Element,Software System",
-      "name" : "Systems that manage other counci; data that is merged with Observations as part of business process. e.g. Consents mathed with water use",
-      "description" : "Existing System",
-      "relationships" : [ {
-        "id" : "40",
-        "tags" : "Relationship",
-        "sourceId" : "20",
-        "destinationId" : "19",
-        "description" : "Sends non-Environment data to"
-      } ],
+      "id" : "24",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Council public Website",
+      "description" : "Council website with Environmental data. e.g. Flow Viewers, Water Quality Reporting",
+      "group" : "Public",
       "location" : "Internal",
       "documentation" : { }
     }, {
-      "id" : "6",
+      "id" : "10",
       "tags" : "Element,Software System,Existing System",
-      "name" : "External Data Stores",
-      "description" : "External systems where data is pushed to. e.g. LAWA, Core-16",
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "15",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "Resource Consent",
-      "description" : "API for accessing consenting information",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "2",
-      "tags" : "Element,Software System,Mobile App",
-      "name" : "Field Capture Tools",
-      "description" : "Field tools used by Council staff to capture Observations. e.g. Water Quality Samples, Ecosystem health survey",
-      "relationships" : [ {
-        "id" : "22",
-        "tags" : "Relationship",
-        "sourceId" : "2",
-        "destinationId" : "11",
-        "description" : "Send field captured Observations to"
-      } ],
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "19",
-      "tags" : "Element,Software System",
-      "name" : "Internal data reporting systems. e.g. GIS Viewers, Power BI Reports",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "3",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "Processing Labs",
-      "description" : "Laboratories that processes field samples",
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "7",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "External Data Clients",
-      "description" : "External systems that pull data. e.g. Application Developers, Engineering Firms, NIWA",
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "5",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "External Data Sources",
-      "description" : "Third party data which can be pulled e.g. Metservice coded data",
-      "relationships" : [ {
-        "id" : "26",
-        "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "11",
-        "description" : "Data pulled from"
-      } ],
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "8",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "Hydrotel System",
-      "description" : "Hydrotel where Telemetry data lands first.",
-      "relationships" : [ {
-        "id" : "23",
-        "tags" : "Relationship",
-        "sourceId" : "8",
-        "destinationId" : "11",
-        "description" : "Sends latest data to"
-      } ],
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "4",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "External Data Feeds",
-      "description" : "Third party data being pushed e.g. Consent Holder Water Abstraction Information, Citizen Science",
-      "relationships" : [ {
-        "id" : "25",
-        "tags" : "Relationship",
-        "sourceId" : "4",
-        "destinationId" : "11",
-        "description" : "Sends latest data to"
-      } ],
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "12",
-      "tags" : "Element,Software System",
-      "name" : "Analytics and Export",
-      "description" : "Where Observational data is stored and exposed for analytical queries. e.g. Daily statistics",
-      "relationships" : [ {
-        "id" : "33",
-        "tags" : "Relationship",
-        "sourceId" : "12",
-        "destinationId" : "7",
-        "description" : "Pull data from"
-      }, {
-        "id" : "36",
-        "tags" : "Relationship",
-        "sourceId" : "12",
-        "destinationId" : "17",
-        "description" : "Sends reporting data to"
-      }, {
-        "id" : "30",
-        "tags" : "Relationship",
-        "sourceId" : "12",
-        "destinationId" : "13",
-        "description" : "Reads data from"
-      }, {
-        "id" : "34",
-        "tags" : "Relationship",
-        "sourceId" : "12",
-        "destinationId" : "16",
-        "description" : "Sends data to"
-      }, {
-        "id" : "38",
-        "tags" : "Relationship",
-        "sourceId" : "12",
-        "destinationId" : "19",
-        "description" : "Sends data to"
-      }, {
-        "id" : "32",
-        "tags" : "Relationship",
-        "sourceId" : "12",
-        "destinationId" : "6",
-        "description" : "Sends data to"
-      } ],
-      "group" : "Environmental Observations Core",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "17",
-      "tags" : "Element,Software System",
-      "name" : "Data reporting systems. e.g. GIS Viewers, Power BI Reports",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "18",
-      "tags" : "Element,Software System",
-      "name" : "Systems for monitoring live situation. e.g. Flood Monitoring, Civil Defence Alerting",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "16",
-      "tags" : "Element,Software System",
-      "name" : "Council public facing Website with Environmental data. e.g. Flow Viewers, Water Quality Reporting",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "11",
-      "tags" : "Element,Software System",
-      "name" : "Aquisition and Management",
-      "description" : "Where new Observations are landed and QA processes done. Transactional side of managing data e.g. Managing which Telemetry data requires QA, and tools to apply quality codind",
-      "relationships" : [ {
-        "id" : "35",
-        "tags" : "Relationship",
-        "sourceId" : "11",
-        "destinationId" : "16",
-        "description" : "Sends live data to"
-      }, {
-        "id" : "39",
-        "tags" : "Relationship",
-        "sourceId" : "11",
-        "destinationId" : "19",
-        "description" : "Sends live data to"
-      }, {
-        "id" : "28",
-        "tags" : "Relationship",
-        "sourceId" : "11",
-        "destinationId" : "12",
-        "description" : "Replicates data to"
-      }, {
-        "id" : "29",
-        "tags" : "Relationship",
-        "sourceId" : "11",
-        "destinationId" : "13",
-        "description" : "Pushes new data events to"
-      }, {
-        "id" : "37",
-        "tags" : "Relationship",
-        "sourceId" : "11",
-        "destinationId" : "18",
-        "description" : "Pushes latest data to"
-      } ],
-      "group" : "Environmental Observations Core",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "13",
-      "tags" : "Element,Software System",
-      "name" : "Event Driven Analysis / Alerting",
-      "description" : "Where Observational data is processed to created derived Observations, trigger automated QA processes or alerting based on data anomalies. Event driven or batch. e.g. Gaugings to Flow, Naturalized flows, Data anomalies identified",
+      "name" : "Internal Data Capture Systems",
+      "description" : "Other council tools which are capturing data. e.g. KiECO, Access Databases",
       "relationships" : [ {
         "id" : "31",
         "tags" : "Relationship",
-        "sourceId" : "13",
-        "destinationId" : "11",
-        "description" : "Pushes derived Observations to"
+        "sourceId" : "10",
+        "destinationId" : "12",
+        "description" : "Sends latest data to"
       } ],
-      "group" : "Environmental Observations Core",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "15",
+      "tags" : "Element,Software System",
+      "name" : "Geospatial Monitoring Network",
+      "description" : "API for access to the Geospatial",
       "location" : "Internal",
       "documentation" : { }
     }, {
       "id" : "9",
       "tags" : "Element,Software System,Existing System",
-      "name" : "Internal Data Capture Systems",
-      "description" : "Other council tools which are capturing data. e.g. KiECO, Survey 123",
+      "name" : "Hydrotel System",
+      "description" : "Hydrotel where Telemetry data lands first.",
       "relationships" : [ {
-        "id" : "24",
+        "id" : "30",
         "tags" : "Relationship",
         "sourceId" : "9",
-        "destinationId" : "11",
+        "destinationId" : "12",
         "description" : "Sends latest data to"
       } ],
       "location" : "Internal",
       "documentation" : { }
     }, {
-      "id" : "14",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "Regional Plan",
-      "description" : "API for accessing regional plan",
+      "id" : "12",
+      "tags" : "Element,Software System",
+      "name" : "Aquisition and Management",
+      "description" : "Where new Observations are landed and QA processes done. Transactional side of managing data e.g. Managing which Telemetry data requires QA, and tools to apply quality codind",
+      "relationships" : [ {
+        "id" : "42",
+        "tags" : "Relationship",
+        "sourceId" : "12",
+        "destinationId" : "24",
+        "description" : "Sends live data to"
+      }, {
+        "id" : "36",
+        "tags" : "Relationship",
+        "sourceId" : "12",
+        "destinationId" : "14",
+        "description" : "Pushes new data events to"
+      }, {
+        "id" : "35",
+        "tags" : "Relationship",
+        "sourceId" : "12",
+        "destinationId" : "13",
+        "description" : "Replicates data to"
+      } ],
+      "group" : "EDMS",
       "location" : "Internal",
       "documentation" : { }
     }, {
-      "id" : "1",
+      "id" : "13",
+      "tags" : "Element,Software System",
+      "name" : "Analytics and Export",
+      "description" : "Where Observational data is stored and exposed for analytical queries. e.g. Daily statistics",
+      "relationships" : [ {
+        "id" : "37",
+        "tags" : "Relationship",
+        "sourceId" : "13",
+        "destinationId" : "14",
+        "description" : "Reads data from"
+      }, {
+        "id" : "39",
+        "tags" : "Relationship",
+        "sourceId" : "13",
+        "destinationId" : "7",
+        "description" : "Sends data to"
+      }, {
+        "id" : "40",
+        "tags" : "Relationship",
+        "sourceId" : "13",
+        "destinationId" : "8",
+        "description" : "Pull data from"
+      }, {
+        "id" : "41",
+        "tags" : "Relationship",
+        "sourceId" : "13",
+        "destinationId" : "24",
+        "description" : "Sends data to"
+      } ],
+      "group" : "EDMS",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "21",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Complicance Checking",
+      "group" : "Compliance",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "8",
+      "tags" : "Element,Software System,Generic System",
+      "name" : "External Data Clients",
+      "description" : "External systems that pull data. e.g. Application Developers, Engineering Firms, NIWA",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "6",
+      "tags" : "Element,Software System,Generic System",
+      "name" : "External Data Sources",
+      "description" : "Third party data which can be pulled e.g. Metservice coded data",
+      "relationships" : [ {
+        "id" : "33",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "12",
+        "description" : "Data pulled from"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "14",
+      "tags" : "Element,Software System",
+      "name" : "Event Driven Analysis / Alerting",
+      "description" : "Where Observational data is processed to created derived Observations, trigger automated QA processes or alerting based on data anomalies. Event driven or batch. e.g. Gaugings to Flow, Naturalized flows, Data anomalies identified",
+      "relationships" : [ {
+        "id" : "38",
+        "tags" : "Relationship",
+        "sourceId" : "14",
+        "destinationId" : "12",
+        "description" : "Pushes derived Observations to"
+      } ],
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "7",
+      "tags" : "Element,Software System,Generic System",
+      "name" : "External Data Stores",
+      "description" : "External systems where data is pushed to. e.g. LAWA, Core-16",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "3",
+      "tags" : "Element,Software System,Mobile App",
+      "name" : "Field Capture Tools",
+      "description" : "Field tools used by Council staff to capture Observations. e.g. Water Quality Samples, Ecosystem health survey",
+      "relationships" : [ {
+        "id" : "28",
+        "tags" : "Relationship",
+        "sourceId" : "3",
+        "destinationId" : "12",
+        "description" : "Send field captured Observations to"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "18",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Flood Prediction",
+      "group" : "Emergency Monitoring",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "2",
       "tags" : "Element,Software System,Existing System",
       "name" : "Telemetry Devices",
       "description" : "Council Managed Telemetry capturing devices. e.g. River Guages, Rainfall Meters, Air Quality Sensors",
       "relationships" : [ {
-        "id" : "21",
+        "id" : "25",
         "tags" : "Relationship",
-        "sourceId" : "1",
-        "destinationId" : "8",
+        "sourceId" : "2",
+        "destinationId" : "9",
         "description" : "Sending latest Observations to"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "20",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Allocations",
+      "group" : "Consenting",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "22",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Complicance Alerting",
+      "group" : "Compliance",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System,Generic System",
+      "name" : "External Data Feeds",
+      "description" : "Third party data being pushed e.g. Consent Holder Water Abstraction Information, Citizen Science",
+      "relationships" : [ {
+        "id" : "32",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "12",
+        "description" : "Sends latest data to"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "16",
+      "tags" : "Element,Software System",
+      "name" : "Digitised Regional Plan",
+      "description" : "API for accessing regional plan",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "17",
+      "tags" : "Element,Software System,Existing System",
+      "name" : "IRIS - Resource Consents",
+      "description" : "Provides resource consent information",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "19",
+      "tags" : "Element,Software System,Mobile App",
+      "name" : "Flood Event Monitoring",
+      "group" : "Emergency Monitoring",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "23",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Plan vs Limits",
+      "group" : "Planning",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "4",
+      "tags" : "Element,Software System,Existing System",
+      "name" : "Processing Labs",
+      "description" : "Laboratories that processes field samples",
+      "relationships" : [ {
+        "id" : "29",
+        "tags" : "Relationship",
+        "sourceId" : "4",
+        "destinationId" : "12",
+        "description" : "Send processed sample Observations to"
       } ],
       "location" : "External",
       "documentation" : { }
@@ -292,103 +312,117 @@
       "key" : "SystemLandscape",
       "order" : 1,
       "dimensions" : {
-        "width" : 6731,
-        "height" : 4757
+        "width" : 7531,
+        "height" : 5557
       },
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
-        "id" : "11",
-        "x" : 2713,
-        "y" : 1975
+        "id" : "22",
+        "x" : 6095,
+        "y" : 1710
       }, {
-        "id" : "12",
-        "x" : 4149,
-        "y" : 1975
+        "id" : "23",
+        "x" : 6095,
+        "y" : 4085
       }, {
-        "id" : "13",
-        "x" : 3385,
-        "y" : 2615
-      }, {
-        "id" : "14",
-        "x" : 3345,
-        "y" : 3110
-      }, {
-        "id" : "15",
-        "x" : 3365,
-        "y" : 3620
-      }, {
-        "id" : "16",
-        "x" : 4880,
-        "y" : 1315
-      }, {
-        "id" : "17",
-        "x" : 4875,
-        "y" : 2290
-      }, {
-        "id" : "18",
-        "x" : 4875,
-        "y" : 740
-      }, {
-        "id" : "19",
-        "x" : 4890,
-        "y" : 2835
-      }, {
-        "id" : "1",
-        "x" : 555,
-        "y" : 900
-      }, {
-        "id" : "2",
-        "x" : 510,
-        "y" : 1650
-      }, {
-        "id" : "3",
-        "x" : 530,
-        "y" : 2255
-      }, {
-        "id" : "4",
-        "x" : 395,
-        "y" : 2890
-      }, {
-        "id" : "5",
-        "x" : 390,
-        "y" : 3645
-      }, {
-        "id" : "6",
-        "x" : 5624,
-        "y" : 1526
-      }, {
-        "id" : "7",
-        "x" : 5624,
-        "y" : 2011
-      }, {
-        "id" : "8",
-        "x" : 2025,
-        "y" : 900
-      }, {
-        "id" : "9",
-        "x" : 1435,
-        "y" : 3610
-      }, {
-        "id" : "20",
-        "x" : 4935,
-        "y" : 3545
+        "id" : "24",
+        "x" : 6095,
+        "y" : 1710
       }, {
         "id" : "10",
-        "x" : 2738,
-        "y" : 1410
+        "x" : 2650,
+        "y" : 4022
+      }, {
+        "id" : "11",
+        "x" : 3667,
+        "y" : 1645
+      }, {
+        "id" : "12",
+        "x" : 3633,
+        "y" : 2387
+      }, {
+        "id" : "13",
+        "x" : 4455,
+        "y" : 2395
+      }, {
+        "id" : "14",
+        "x" : 4080,
+        "y" : 3025
+      }, {
+        "id" : "15",
+        "x" : 4080,
+        "y" : 3583
+      }, {
+        "id" : "16",
+        "x" : 4080,
+        "y" : 4141
+      }, {
+        "id" : "17",
+        "x" : 4080,
+        "y" : 4700
+      }, {
+        "id" : "18",
+        "x" : 6095,
+        "y" : 2845
+      }, {
+        "id" : "19",
+        "x" : 6090,
+        "y" : 2250
+      }, {
+        "id" : "1",
+        "x" : 537,
+        "y" : 2245
+      }, {
+        "id" : "2",
+        "x" : 1477,
+        "y" : 1310
+      }, {
+        "id" : "3",
+        "x" : 1430,
+        "y" : 2062
+      }, {
+        "id" : "4",
+        "x" : 1450,
+        "y" : 2667
+      }, {
+        "id" : "5",
+        "x" : 1447,
+        "y" : 3205
+      }, {
+        "id" : "6",
+        "x" : 1442,
+        "y" : 3700
+      }, {
+        "id" : "7",
+        "x" : 5245,
+        "y" : 530
+      }, {
+        "id" : "8",
+        "x" : 5840,
+        "y" : 535
+      }, {
+        "id" : "9",
+        "x" : 2650,
+        "y" : 1335
+      }, {
+        "id" : "20",
+        "x" : 6095,
+        "y" : 1100
+      }, {
+        "id" : "21",
+        "x" : 6095,
+        "y" : 3395
       } ],
       "relationships" : [ {
         "id" : "40"
       }, {
-        "id" : "21"
+        "id" : "41"
+      }, {
+        "id" : "42"
       }, {
         "id" : "32"
       }, {
-        "id" : "31",
-        "vertices" : [ {
-          "x" : 3474,
-          "y" : 2436
-        } ]
+        "id" : "31"
       }, {
         "id" : "30"
       }, {
@@ -398,27 +432,25 @@
       }, {
         "id" : "27"
       }, {
-        "id" : "26"
-      }, {
         "id" : "37"
+      }, {
+        "id" : "26"
       }, {
         "id" : "25"
       }, {
         "id" : "36"
       }, {
-        "id" : "24"
-      }, {
         "id" : "35"
-      }, {
-        "id" : "23"
       }, {
         "id" : "34"
       }, {
-        "id" : "22"
-      }, {
         "id" : "33"
       }, {
-        "id" : "38"
+        "id" : "38",
+        "vertices" : [ {
+          "x" : 4394,
+          "y" : 2848
+        } ]
       }, {
         "id" : "39"
       } ]
@@ -443,6 +475,15 @@
           "tag" : "Existing System",
           "background" : "#999999",
           "color" : "#ffffff"
+        }, {
+          "tag" : "Generic System",
+          "background" : "#ffb6c1",
+          "color" : "#ffffff"
+        }, {
+          "tag" : "Web App",
+          "background" : "#ff9900",
+          "color" : "#ffffff",
+          "shape" : "WebBrowser"
         }, {
           "tag" : "Mobile App",
           "background" : "#ff9900",
