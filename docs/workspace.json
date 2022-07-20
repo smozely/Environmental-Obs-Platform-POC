@@ -2,11 +2,9 @@
   "id" : 1,
   "name" : "Environmental Observations",
   "description" : "POC for Environmental Observations",
-  "revision" : 0,
-  "lastModifiedDate" : "2022-07-17T22:54:40Z",
-  "lastModifiedAgent" : "structurizr-web/2762/diagram",
+  "lastModifiedDate" : "2022-07-20T16:55:38Z",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlICJFbnZpcm9ubWVudGFsIE9ic2VydmF0aW9ucyIgIlBPQyBmb3IgRW52aXJvbm1lbnRhbCBPYnNlcnZhdGlvbnMiIHsKCiAgICBtb2RlbCB7CgogICAgICAgIGZpZWxkX2NvbGxlY3RvciA9IHBlcnNvbiAiRmllbGQgQ29sbGVjdG9yIiAiVXNlciB3aG8gaXMgdGFraW5nIE9ic2VydmF0aW9ucyAvIFNhbXBsZXMgaW4gdGhlIGZpZWxkIiAiQ291bmNpbCBTdGFmZiIgCiAgICAgICAgZmllbGRfZGV2aWNlcyA9IHNvZnR3YXJlU3lzdGVtICJUZWxlbWV0cnkgRGV2aWNlcyIgIkNvdW5jaWwgTWFuYWdlZCBUZWxlbWV0cnkgY2FwdHVyaW5nIGRldmljZXMuIGUuZy4gUml2ZXIgR3VhZ2VzLCBSYWluZmFsbCBNZXRlcnMsIEFpciBRdWFsaXR5IFNlbnNvcnMiICJFeGlzdGluZyBTeXN0ZW0iCiAgICAgICAgZmllbGRfY2FwdHVyZV9hcHBzID0gc29mdHdhcmVTeXN0ZW0gIkZpZWxkIENhcHR1cmUgVG9vbHMiICJGaWVsZCB0b29scyB1c2VkIGJ5IENvdW5jaWwgc3RhZmYgdG8gY2FwdHVyZSBPYnNlcnZhdGlvbnMuIGUuZy4gV2F0ZXIgUXVhbGl0eSBTYW1wbGVzLCBFY29zeXN0ZW0gaGVhbHRoIHN1cnZleSIgIk1vYmlsZSBBcHAiCgogICAgICAgIHNhbXBsZV9wcm9jZXNzaW5nX2xhYnMgPSBzb2Z0d2FyZVN5c3RlbSAiUHJvY2Vzc2luZyBMYWJzIiAiTGFib3JhdG9yaWVzIHRoYXQgcHJvY2Vzc2VzIGZpZWxkIHNhbXBsZXMiICJFeGlzdGluZyBTeXN0ZW0iCgogICAgICAgIGV4dGVybmFsX2RhdGFfZmVlZHMgPSBzb2Z0d2FyZVN5c3RlbSAiRXh0ZXJuYWwgRGF0YSBGZWVkcyIgIlRoaXJkIHBhcnR5IGRhdGEgYmVpbmcgcHVzaGVkIGUuZy4gQ29uc2VudCBIb2xkZXIgV2F0ZXIgQWJzdHJhY3Rpb24gSW5mb3JtYXRpb24sIENpdGl6ZW4gU2NpZW5jZSIgIkdlbmVyaWMgU3lzdGVtIgogICAgICAgIGV4dGVybmFsX2RhdGFfc3RvcmVzID0gc29mdHdhcmVTeXN0ZW0gIkV4dGVybmFsIERhdGEgU291cmNlcyIgIlRoaXJkIHBhcnR5IGRhdGEgd2hpY2ggY2FuIGJlIHB1bGxlZCBlLmcuIE1ldHNlcnZpY2UgY29kZWQgZGF0YSIgIkdlbmVyaWMgU3lzdGVtIgogICAgICAgIAogICAgICAgIGV4dGVybmFsX2RhdGFfY2xpZW50X3B1c2ggPSBzb2Z0d2FyZXN5c3RlbSAiRXh0ZXJuYWwgRGF0YSBTdG9yZXMiICJFeHRlcm5hbCBzeXN0ZW1zIHdoZXJlIGRhdGEgaXMgcHVzaGVkIHRvLiBlLmcuIExBV0EsIENvcmUtMTYiICJHZW5lcmljIFN5c3RlbSIKICAgICAgICBleHRlcm5hbF9kYXRhX2NsaWVudF9wdWxsID0gc29mdHdhcmVzeXN0ZW0gIkV4dGVybmFsIERhdGEgQ2xpZW50cyIgIkV4dGVybmFsIHN5c3RlbXMgdGhhdCBwdWxsIGRhdGEuIGUuZy4gQXBwbGljYXRpb24gRGV2ZWxvcGVycywgRW5naW5lZXJpbmcgRmlybXMsIE5JV0EiICJHZW5lcmljIFN5c3RlbSIKCiAgICAgICAgZW50ZXJwcmlzZSA9IGVudGVycHJpc2UgIkNvdW5jaWwiICB7CiAgICAgICAgICAgIGh5ZHJvdGVsID0gc29mdHdhcmVzeXN0ZW0gIkh5ZHJvdGVsIFN5c3RlbSIgIkh5ZHJvdGVsIHdoZXJlIFRlbGVtZXRyeSBkYXRhIGxhbmRzIGZpcnN0LiIgIkV4aXN0aW5nIFN5c3RlbSIKICAgICAgICAgICAgaW50ZXJuYWxfY2FwdHVyZV9zeXN0ZW1zID0gc29mdHdhcmVzeXN0ZW0gIkludGVybmFsIERhdGEgQ2FwdHVyZSBTeXN0ZW1zIiAiT3RoZXIgY291bmNpbCB0b29scyB3aGljaCBhcmUgY2FwdHVyaW5nIGRhdGEuIGUuZy4gS2lFQ08sIEFjY2VzcyBEYXRhYmFzZXMiICJFeGlzdGluZyBTeXN0ZW0iCiAgICAgICAgICAgIG1hbmFnZXIgPSBwZXJzb24gIk9ic2VydmF0aW9ucyBjdXN0b2RpYW4iICJVc2VyIHdobyBpcyBhIGN1c3RvZGlhbiBvZiBPYnNlcnZhdGlvbiBkYXRhLiBDYW4gUUEgb2JzZXJ2YXRpb25zIiAiQ291bmNpbCBTdGFmZiIgCgogICAgICAgICAgICBjb3JlID0gZ3JvdXAgIkVETVMiIHsgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBlb20gPSBzb2Z0d2FyZVN5c3RlbSAiQXF1aXNpdGlvbiBhbmQgTWFuYWdlbWVudCIgIldoZXJlIG5ldyBPYnNlcnZhdGlvbnMgYXJlIGxhbmRlZCBhbmQgUUEgcHJvY2Vzc2VzIGRvbmUuIFRyYW5zYWN0aW9uYWwgc2lkZSBvZiBtYW5hZ2luZyBkYXRhIGUuZy4gTWFuYWdpbmcgd2hpY2ggVGVsZW1ldHJ5IGRhdGEgcmVxdWlyZXMgUUEsIGFuZCB0b29scyB0byBhcHBseSBxdWFsaXR5IGNvZGluZCIKICAgICAgICAgICAgICAgIGVvYSA9IHNvZnR3YXJlU3lzdGVtICJBbmFseXRpY3MgYW5kIEV4cG9ydCIgIldoZXJlIE9ic2VydmF0aW9uYWwgZGF0YSBpcyBzdG9yZWQgYW5kIGV4cG9zZWQgZm9yIGFuYWx5dGljYWwgcXVlcmllcy4gZS5nLiBEYWlseSBzdGF0aXN0aWNzIiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfSAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgZW9wID0gc29mdHdhcmVTeXN0ZW0gIkV2ZW50IERyaXZlbiBBbmFseXNpcyAvIEFsZXJ0aW5nIiAiV2hlcmUgT2JzZXJ2YXRpb25hbCBkYXRhIGlzIHByb2Nlc3NlZCB0byBjcmVhdGVkIGRlcml2ZWQgT2JzZXJ2YXRpb25zLCB0cmlnZ2VyIGF1dG9tYXRlZCBRQSBwcm9jZXNzZXMgb3IgYWxlcnRpbmcgYmFzZWQgb24gZGF0YSBhbm9tYWxpZXMuIEV2ZW50IGRyaXZlbiBvciBiYXRjaC4gZS5nLiBHYXVnaW5ncyB0byBGbG93LCBOYXR1cmFsaXplZCBmbG93cywgRGF0YSBhbm9tYWxpZXMgaWRlbnRpZmllZCIKCiAgICAgICAgICAgIG1vbml0b3JpbmdfbmV0d29yayA9IHNvZnR3YXJlU3lzdGVtICJHZW9zcGF0aWFsIE1vbml0b3JpbmcgTmV0d29yayIgIkFQSSBmb3IgYWNjZXNzIHRvIHRoZSBHZW9zcGF0aWFsICIKICAgICAgICAgICAgcmVnaW9uYWxfcGxhbiA9IHNvZnR3YXJlU3lzdGVtICJEaWdpdGlzZWQgUmVnaW9uYWwgUGxhbiIgIkFQSSBmb3IgYWNjZXNzaW5nIHJlZ2lvbmFsIHBsYW4iCiAgICAgICAgICAgIHJlc291cmNlX2NvbnNlbnRzID0gc29mdHdhcmVTeXN0ZW0gIklSSVMgLSBSZXNvdXJjZSBDb25zZW50cyIgIlByb3ZpZGVzIHJlc291cmNlIGNvbnNlbnQgaW5mb3JtYXRpb24iICJFeGlzdGluZyBTeXN0ZW0iCgogICAgICAgICAgICBncm91cCAiRW1lcmdlbmN5IE1vbml0b3JpbmciIHsKICAgICAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtICJGbG9vZCBQcmVkaWN0aW9uIiAiIiAiV2ViIEFwcCIKICAgICAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtICJGbG9vZCBFdmVudCBNb25pdG9yaW5nIiAiIiAiTW9iaWxlIEFwcCIgICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGdyb3VwICJDb25zZW50aW5nIiB7CiAgICAgICAgICAgICAgICBzb2Z0d2FyZVN5c3RlbSAiQWxsb2NhdGlvbnMiICIiICJXZWIgQXBwIiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZ3JvdXAgIkNvbXBsaWFuY2UiIHsKICAgICAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtICJDb21wbGljYW5jZSBDaGVja2luZyIgIiIgIldlYiBBcHAiCiAgICAgICAgICAgICAgICBzb2Z0d2FyZVN5c3RlbSAiQ29tcGxpY2FuY2UgQWxlcnRpbmciICIiICJXZWIgQXBwIgogICAgICAgICAgICB9CgogICAgICAgICAgICBncm91cCAiUGxhbm5pbmciIHsKICAgICAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtICJQbGFuIHZzIExpbWl0cyIgIiIgIldlYiBBcHAiICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICBncm91cCAiUHVibGljIiB7CiAgICAgICAgICAgICAgICBwdWJsaWNfZmFjaW5nX3dlYl9zaXRlID0gc29mdHdhcmVTeXN0ZW0gIkNvdW5jaWwgcHVibGljIFdlYnNpdGUiICJDb3VuY2lsIHdlYnNpdGUgd2l0aCBFbnZpcm9ubWVudGFsIGRhdGEuIGUuZy4gRmxvdyBWaWV3ZXJzLCBXYXRlciBRdWFsaXR5IFJlcG9ydGluZyIgIldlYiBBcHAiCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICMgaW50ZXJuYWxfcmVwb3J0aW5nX3N5c3RlbXMgPSBzb2Z0d2FyZVN5c3RlbSAiRGF0YSByZXBvcnRpbmcgc3lzdGVtcy4gZS5nLiBHSVMgVmlld2VycywgUG93ZXIgQkkgUmVwb3J0cyIgCiAgICAgICAgICAgICMgaW50ZXJuYWxfbW9uaXRvcmluZ19zeXN0ZW1zID0gc29mdHdhcmVTeXN0ZW0gIlN5c3RlbXMgZm9yIG1vbml0b3JpbmcgbGl2ZSBzaXR1YXRpb24uIGUuZy4gRmxvb2QgTW9uaXRvcmluZywgQ2l2aWwgRGVmZW5jZSBBbGVydGluZyIgCiAgICAgICAgICAgICMgaW50ZXJuYWxfYnVzaW5lc3NfcHJvY2Vzc19zeXN0ZW1zID0gc29mdHdhcmVTeXN0ZW0gIkludGVybmFsIGRhdGEgcmVwb3J0aW5nIHN5c3RlbXMuIGUuZy4gR0lTIFZpZXdlcnMsIFBvd2VyIEJJIFJlcG9ydHMiIAogICAgICAgICAgICAjIG90aGVyX2J1c2luZXNzX2RhdGFfc3RvcmUgPSBzb2Z0d2FyZVN5c3RlbSAiU3lzdGVtcyB0aGF0IG1hbmFnZSBvdGhlciBjb3VuY2k7IGRhdGEgdGhhdCBpcyBtZXJnZWQgd2l0aCBPYnNlcnZhdGlvbnMgYXMgcGFydCBvZiBidXNpbmVzcyBwcm9jZXNzLiBlLmcuIENvbnNlbnRzIG1hdGhlZCB3aXRoIHdhdGVyIHVzZSIgIkV4aXN0aW5nIFN5c3RlbSIKICAgICAgICB9CiAgICAKICAgICAgICBmaWVsZF9kZXZpY2VzIC0+IGh5ZHJvdGVsICJTZW5kaW5nIGxhdGVzdCBPYnNlcnZhdGlvbnMgdG8iCgogICAgICAgIGZpZWxkX2NvbGxlY3RvciAtPiBmaWVsZF9jYXB0dXJlX2FwcHMgIkNhcHR1cmVzIE9ic2VydmF0aW9ucyBpbiIKICAgICAgICBmaWVsZF9jb2xsZWN0b3IgLT4gc2FtcGxlX3Byb2Nlc3NpbmdfbGFicyAiU2VuZHMgc2FtcGxlcyB0byIKICAgICAgICBmaWVsZF9jYXB0dXJlX2FwcHMgLT4gZW9tICJTZW5kIGZpZWxkIGNhcHR1cmVkIE9ic2VydmF0aW9ucyB0byIKICAgICAgICBzYW1wbGVfcHJvY2Vzc2luZ19sYWJzIC0+IGVvbSAiU2VuZCBwcm9jZXNzZWQgc2FtcGxlIE9ic2VydmF0aW9ucyB0byIKICAgICAgICAKICAgICAgICBoeWRyb3RlbCAtPiBlb20gIlNlbmRzIGxhdGVzdCBkYXRhIHRvIgogICAgICAgIGludGVybmFsX2NhcHR1cmVfc3lzdGVtcyAtPiBlb20gIlNlbmRzIGxhdGVzdCBkYXRhIHRvIgogICAgICAgIGV4dGVybmFsX2RhdGFfZmVlZHMgLT4gZW9tICJTZW5kcyBsYXRlc3QgZGF0YSB0byIKICAgICAgICBleHRlcm5hbF9kYXRhX3N0b3JlcyAtPiBlb20gIkRhdGEgcHVsbGVkIGZyb20iCiAgICAgICAgCiAgICAgICAgbWFuYWdlciAtPiBlb20gIlJldmlld3MgdGVsZW1ldHJ5IGRhdGEgYW5kIG1hcmtzIGFzIFFBJ2VkIgogICAgICAgIAogICAgICAgIGVvbSAtPiBlb2EgIlJlcGxpY2F0ZXMgZGF0YSB0byIKICAgICAgICBlb20gLT4gZW9wICJQdXNoZXMgbmV3IGRhdGEgZXZlbnRzIHRvIgogICAgICAgIGVvYSAtPiBlb3AgIlJlYWRzIGRhdGEgZnJvbSIKICAgICAgICBlb3AgLT4gZW9tICJQdXNoZXMgZGVyaXZlZCBPYnNlcnZhdGlvbnMgdG8iCiAgICAKICAgICAgICBlb2EgLT4gZXh0ZXJuYWxfZGF0YV9jbGllbnRfcHVzaCAiU2VuZHMgZGF0YSB0byIKICAgICAgICBlb2EgLT4gZXh0ZXJuYWxfZGF0YV9jbGllbnRfcHVsbCAiUHVsbCBkYXRhIGZyb20iCgogICAgICAgIGVvYSAtPiBwdWJsaWNfZmFjaW5nX3dlYl9zaXRlICJTZW5kcyBkYXRhIHRvIgogICAgICAgIGVvbSAtPiBwdWJsaWNfZmFjaW5nX3dlYl9zaXRlICJTZW5kcyBsaXZlIGRhdGEgdG8iCgogICAgICAgICMgZW9hIC0+IGludGVybmFsX3JlcG9ydGluZ19zeXN0ZW1zICJTZW5kcyByZXBvcnRpbmcgZGF0YSB0byIKCiAgICAgICAgIyBlb20gLT4gaW50ZXJuYWxfbW9uaXRvcmluZ19zeXN0ZW1zICJQdXNoZXMgbGF0ZXN0IGRhdGEgdG8iCiAgICAgICAgCiAgICAgICAgIyBlb2EgLT4gaW50ZXJuYWxfYnVzaW5lc3NfcHJvY2Vzc19zeXN0ZW1zICJTZW5kcyBkYXRhIHRvIgogICAgICAgICMgZW9tIC0+IGludGVybmFsX2J1c2luZXNzX3Byb2Nlc3Nfc3lzdGVtcyAiU2VuZHMgbGl2ZSBkYXRhIHRvIgogICAgICAgICMgb3RoZXJfYnVzaW5lc3NfZGF0YV9zdG9yZSAtPiBpbnRlcm5hbF9idXNpbmVzc19wcm9jZXNzX3N5c3RlbXMgIlNlbmRzIG5vbi1FbnZpcm9ubWVudCBkYXRhIHRvIgogICAgfQogICAgCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtTGFuZHNjYXBlICJTeXN0ZW1MYW5kc2NhcGUiICJPdmVydmlldyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGZvbnRTaXplIDIyCiAgICAgICAgICAgICAgICBzaGFwZSBQZXJzb24KICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgZWxlbWVudCAiQ291bmNpbCBTdGFmZiIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMDg0MjdiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIGVsZW1lbnQgIlNvZnR3YXJlIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMTE2OGJkCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIGVsZW1lbnQgIkV4aXN0aW5nIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGVsZW1lbnQgIkdlbmVyaWMgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICNGRkI2QzEKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZWxlbWVudCAiV2ViIEFwcCIgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjRkY5OTAwCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGVsZW1lbnQgIk1vYmlsZSBBcHAiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgI0ZGOTkwMAogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICAgICAgc2hhcGUgTW9iaWxlRGV2aWNlTGFuZHNjYXBlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgfQogICAgfQoKfQo="
+    "structurizr.dsl" : "d29ya3NwYWNlICJFbnZpcm9ubWVudGFsIE9ic2VydmF0aW9ucyIgIlBPQyBmb3IgRW52aXJvbm1lbnRhbCBPYnNlcnZhdGlvbnMiIHsKCiAgICBtb2RlbCB7CgogICAgICAgIGZpZWxkX2NvbGxlY3RvciA9IHBlcnNvbiAiRmllbGQgQ29sbGVjdG9yIiAiVXNlciB3aG8gaXMgdGFraW5nIE9ic2VydmF0aW9ucyAvIFNhbXBsZXMgaW4gdGhlIGZpZWxkIiAiQ291bmNpbCBTdGFmZiIgCiAgICAgICAgZmllbGRfZGV2aWNlcyA9IHNvZnR3YXJlU3lzdGVtICJUZWxlbWV0cnkgRGV2aWNlcyIgIkNvdW5jaWwgTWFuYWdlZCBUZWxlbWV0cnkgY2FwdHVyaW5nIGRldmljZXMuIGUuZy4gUml2ZXIgR3VhZ2VzLCBSYWluZmFsbCBNZXRlcnMsIEFpciBRdWFsaXR5IFNlbnNvcnMiICJFeGlzdGluZyBTeXN0ZW0iCiAgICAgICAgZmllbGRfY2FwdHVyZV9hcHBzID0gc29mdHdhcmVTeXN0ZW0gIkZpZWxkIENhcHR1cmUgVG9vbHMiICJGaWVsZCB0b29scyB1c2VkIGJ5IENvdW5jaWwgc3RhZmYgdG8gY2FwdHVyZSBPYnNlcnZhdGlvbnMuIGUuZy4gV2F0ZXIgUXVhbGl0eSBTYW1wbGVzLCBFY29zeXN0ZW0gaGVhbHRoIHN1cnZleSIgIk1vYmlsZSBBcHAiCgogICAgICAgIHNhbXBsZV9wcm9jZXNzaW5nX2xhYnMgPSBzb2Z0d2FyZVN5c3RlbSAiUHJvY2Vzc2luZyBMYWJzIiAiTGFib3JhdG9yaWVzIHRoYXQgcHJvY2Vzc2VzIGZpZWxkIHNhbXBsZXMiICJFeGlzdGluZyBTeXN0ZW0iCgogICAgICAgIGV4dGVybmFsX2RhdGFfZmVlZHMgPSBzb2Z0d2FyZVN5c3RlbSAiRXh0ZXJuYWwgRGF0YSBGZWVkcyIgIlRoaXJkIHBhcnR5IGRhdGEgYmVpbmcgcHVzaGVkIGUuZy4gQ29uc2VudCBIb2xkZXIgV2F0ZXIgQWJzdHJhY3Rpb24gSW5mb3JtYXRpb24sIENpdGl6ZW4gU2NpZW5jZSIgIkdlbmVyaWMgU3lzdGVtIgogICAgICAgIGV4dGVybmFsX2RhdGFfc3RvcmVzID0gc29mdHdhcmVTeXN0ZW0gIkV4dGVybmFsIERhdGEgU291cmNlcyIgIlRoaXJkIHBhcnR5IGRhdGEgd2hpY2ggY2FuIGJlIHB1bGxlZCBlLmcuIE1ldHNlcnZpY2UgY29kZWQgZGF0YSIgIkdlbmVyaWMgU3lzdGVtIgogICAgICAgIAogICAgICAgIGV4dGVybmFsX2RhdGFfY2xpZW50X3B1c2ggPSBzb2Z0d2FyZXN5c3RlbSAiRXh0ZXJuYWwgRGF0YSBTdG9yZXMiICJFeHRlcm5hbCBzeXN0ZW1zIHdoZXJlIGRhdGEgaXMgcHVzaGVkIHRvLiBlLmcuIExBV0EsIENvcmUtMTYiICJHZW5lcmljIFN5c3RlbSIKICAgICAgICBleHRlcm5hbF9kYXRhX2NsaWVudF9wdWxsID0gc29mdHdhcmVzeXN0ZW0gIkV4dGVybmFsIERhdGEgQ2xpZW50cyIgIkV4dGVybmFsIHN5c3RlbXMgdGhhdCBwdWxsIGRhdGEuIGUuZy4gQXBwbGljYXRpb24gRGV2ZWxvcGVycywgRW5naW5lZXJpbmcgRmlybXMsIE5JV0EiICJHZW5lcmljIFN5c3RlbSIKCiAgICAgICAgZW50ZXJwcmlzZSA9IGVudGVycHJpc2UgIkNvdW5jaWwiICB7CiAgICAgICAgICAgIGh5ZHJvdGVsID0gc29mdHdhcmVzeXN0ZW0gIkh5ZHJvdGVsIFN5c3RlbSIgIkh5ZHJvdGVsIHdoZXJlIFRlbGVtZXRyeSBkYXRhIGxhbmRzIGZpcnN0LiIgIkV4aXN0aW5nIFN5c3RlbSIKICAgICAgICAgICAgaW50ZXJuYWxfY2FwdHVyZV9zeXN0ZW1zID0gc29mdHdhcmVzeXN0ZW0gIkludGVybmFsIERhdGEgQ2FwdHVyZSBTeXN0ZW1zIiAiT3RoZXIgY291bmNpbCB0b29scyB3aGljaCBhcmUgY2FwdHVyaW5nIGRhdGEuIGUuZy4gS2lFQ08sIEFjY2VzcyBEYXRhYmFzZXMiICJFeGlzdGluZyBTeXN0ZW0iCiAgICAgICAgICAgIG1hbmFnZXIgPSBwZXJzb24gIk9ic2VydmF0aW9ucyBjdXN0b2RpYW4iICJVc2VyIHdobyBpcyBhIGN1c3RvZGlhbiBvZiBPYnNlcnZhdGlvbiBkYXRhLiBDYW4gUUEgb2JzZXJ2YXRpb25zIiAiQ291bmNpbCBTdGFmZiIgCgogICAgICAgICAgICBjb3JlID0gZ3JvdXAgIkVETVMiIHsgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBlb20gPSBzb2Z0d2FyZVN5c3RlbSAiQXF1aXNpdGlvbiBhbmQgTWFuYWdlbWVudCIgIldoZXJlIG5ldyBPYnNlcnZhdGlvbnMgYXJlIGxhbmRlZCBhbmQgUUEgcHJvY2Vzc2VzIGRvbmUuIFRyYW5zYWN0aW9uYWwgc2lkZSBvZiBtYW5hZ2luZyBkYXRhIGUuZy4gTWFuYWdpbmcgd2hpY2ggVGVsZW1ldHJ5IGRhdGEgcmVxdWlyZXMgUUEsIGFuZCB0b29scyB0byBhcHBseSBxdWFsaXR5IGNvZGluZCIKICAgICAgICAgICAgICAgIGVvYSA9IHNvZnR3YXJlU3lzdGVtICJBbmFseXRpY3MgYW5kIEV4cG9ydCIgIldoZXJlIE9ic2VydmF0aW9uYWwgZGF0YSBpcyBzdG9yZWQgYW5kIGV4cG9zZWQgZm9yIGFuYWx5dGljYWwgcXVlcmllcy4gZS5nLiBEYWlseSBzdGF0aXN0aWNzIiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfSAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgZW9wID0gc29mdHdhcmVTeXN0ZW0gIkV2ZW50IERyaXZlbiBBbmFseXNpcyAvIEFsZXJ0aW5nIiAiV2hlcmUgT2JzZXJ2YXRpb25hbCBkYXRhIGlzIHByb2Nlc3NlZCB0byBjcmVhdGVkIGRlcml2ZWQgT2JzZXJ2YXRpb25zLCB0cmlnZ2VyIGF1dG9tYXRlZCBRQSBwcm9jZXNzZXMgb3IgYWxlcnRpbmcgYmFzZWQgb24gZGF0YSBhbm9tYWxpZXMuIEV2ZW50IGRyaXZlbiBvciBiYXRjaC4gZS5nLiBHYXVnaW5ncyB0byBGbG93LCBOYXR1cmFsaXplZCBmbG93cywgRGF0YSBhbm9tYWxpZXMgaWRlbnRpZmllZCIKCiAgICAgICAgICAgIGdlb19uZXR3b3JrID0gc29mdHdhcmVTeXN0ZW0gIkdlb3NwYXRpYWwgTmV0d29yayIgIk1vZGVsIG9mIHNhbXBsaW5nIHNpdGVzIGFuZCB0aGVpciByZWxhdGlvbnNoaXAgdG8gY2F0Y2htZW50cywgdGVycml0b3JpZXMsIGNpdHlzIgogICAgICAgICAgICByZWdpb25hbF9wbGFuID0gc29mdHdhcmVTeXN0ZW0gIkRpZ2l0aXNlZCBSZWdpb25hbCBQbGFuIiAiTW9kZWwgb2YgdGhlIHJlZ2lvbmFsIHBsYW4gdG8gYWxsb3cgY29tcGFyc2lvbiBiZXR3ZWVuIGVudmlyb25tZW50YWwgb2JzZXJ2YXRpb25zIGFuZCBwbGFuIG91dGNvbWVzIgogICAgICAgICAgICByZXNvdXJjZV9jb25zZW50cyA9IHNvZnR3YXJlU3lzdGVtICJJUklTIC0gUmVzb3VyY2UgQ29uc2VudHMiICJNb2RlbCBvZiB0aGUgcmVzb3VyY2UgY29uc2VudHMgYW5kIHRoZSBsaW1pdHMgdGhhdCBjYW4gYmUgY29tcGFyZWQgd2l0aCBvYnNlcnZhdGlvbnMiICJFeGlzdGluZyBTeXN0ZW0iCgogICAgICAgICAgICBncm91cCAiRW1lcmdlbmN5IE1vbml0b3JpbmciIHsKICAgICAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtICJGbG9vZCBQcmVkaWN0aW9uIiAiVmlld2VyIGZvciBmbG9vZCBsaWtsZXlob29kIGluIGEgZ2l2ZW4gYXJlYSwgYmFzZWQgb2ZmIGxvbmcgdGVybSBlbnZpcm9ubWVudGFsIG9ic2VydmF0aW9ucyIgIldlYiBBcHAiCiAgICAgICAgICAgICAgICBzb2Z0d2FyZVN5c3RlbSAiRmxvb2QgRXZlbnQgTW9uaXRvcmluZyIgIlZpZXdlciBmb3IgY3VycmVudCBzdGF0ZSBpbiBhIHNldmVyZSB3ZWF0aGVyIGV2ZW50LCBiYXNlZCBvZmYgcmVhbCB0aW1lIGRhdGEiICJNb2JpbGUgQXBwIiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZ3JvdXAgIkNvbnNlbnRpbmciIHsKICAgICAgICAgICAgICAgIGFsbG9jYXRpb25zID0gc29mdHdhcmVTeXN0ZW0gIkFsbG9jYXRpb25zIiAiVmlld2VyIGZvciBob3cgbXVjaCByZXNvdXJjZSBoYXMgYmVlbiBhbGxvY2F0ZWQgdmlhIGNvbnNlbnRzIHZzIHRoZSByZWdpb25hbCBwbGFuIGdvYWxzIiAiV2ViIEFwcCIgICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGdyb3VwICJDb21wbGlhbmNlIiB7CiAgICAgICAgICAgICAgICBjYyA9IHNvZnR3YXJlU3lzdGVtICJDb21wbGlhbmNlIENoZWNraW5nIiAiVmlld2VyIHRvIGFsbG93IGNvbXBsaWFuY2Ugb2ZmaWNlcnMgdmlldyBiZWhhdmlvdXIgb2YgY29uc2VudCBob2xkZXJzIHZzIHJlc291cmNlIGNvbnNlbnQgY29uZGl0aW9ucyIgIldlYiBBcHAiCiAgICAgICAgICAgICAgICBjYSA9IHNvZnR3YXJlU3lzdGVtICJDb21wbGlhbmNlIEFsZXJ0aW5nIiAiQWxlcnRpbmcgYXBwbGljYXRpb24gdG8gaGVscCBjb21wbGlhbmNlIG9mZmljZXJzIG1hbmFnZSB3aGVuIGNvbnNlbnQgaG9sZGVycyBoYXZlIGJyb2tlbiByZXNvdXJjZSBjb25zZW50IGNvbmRpdGlvbnMiICJXZWIgQXBwIgogICAgICAgICAgICB9CgogICAgICAgICAgICBncm91cCAiUGxhbm5pbmciIHsKICAgICAgICAgICAgICAgIHBsID0gc29mdHdhcmVTeXN0ZW0gIlBsYW4gdnMgTGltaXRzIiAiVmlld2VyIGZvciBob3cgbGltaXQgLyB0YXJnZXRzIHNldCBvdXQgaW50IGhlIHJlZ2lvbmFsIHBsYW4gYXJlIGJlaW5nIG1ldCIgIldlYiBBcHAiICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICBncm91cCAiUHVibGljIiB7CiAgICAgICAgICAgICAgICBwdWJsaWNfZmFjaW5nX3dlYl9zaXRlID0gc29mdHdhcmVTeXN0ZW0gIkNvdW5jaWwgcHVibGljIFdlYnNpdGUiICJDb3VuY2lsIHdlYnNpdGUgd2l0aCBFbnZpcm9ubWVudGFsIGRhdGEuIGUuZy4gRmxvdyBWaWV3ZXJzLCBXYXRlciBRdWFsaXR5IFJlcG9ydGluZywgUGxhbiB2cyBMaW1pdHMuIiAiV2ViIEFwcCIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgIyBpbnRlcm5hbF9yZXBvcnRpbmdfc3lzdGVtcyA9IHNvZnR3YXJlU3lzdGVtICJEYXRhIHJlcG9ydGluZyBzeXN0ZW1zLiBlLmcuIEdJUyBWaWV3ZXJzLCBQb3dlciBCSSBSZXBvcnRzIiAKICAgICAgICAgICAgIyBpbnRlcm5hbF9tb25pdG9yaW5nX3N5c3RlbXMgPSBzb2Z0d2FyZVN5c3RlbSAiU3lzdGVtcyBmb3IgbW9uaXRvcmluZyBsaXZlIHNpdHVhdGlvbi4gZS5nLiBGbG9vZCBNb25pdG9yaW5nLCBDaXZpbCBEZWZlbmNlIEFsZXJ0aW5nIiAKICAgICAgICAgICAgIyBpbnRlcm5hbF9idXNpbmVzc19wcm9jZXNzX3N5c3RlbXMgPSBzb2Z0d2FyZVN5c3RlbSAiSW50ZXJuYWwgZGF0YSByZXBvcnRpbmcgc3lzdGVtcy4gZS5nLiBHSVMgVmlld2VycywgUG93ZXIgQkkgUmVwb3J0cyIgCiAgICAgICAgICAgICMgb3RoZXJfYnVzaW5lc3NfZGF0YV9zdG9yZSA9IHNvZnR3YXJlU3lzdGVtICJTeXN0ZW1zIHRoYXQgbWFuYWdlIG90aGVyIGNvdW5jaTsgZGF0YSB0aGF0IGlzIG1lcmdlZCB3aXRoIE9ic2VydmF0aW9ucyBhcyBwYXJ0IG9mIGJ1c2luZXNzIHByb2Nlc3MuIGUuZy4gQ29uc2VudHMgbWF0aGVkIHdpdGggd2F0ZXIgdXNlIiAiRXhpc3RpbmcgU3lzdGVtIgogICAgICAgIH0KICAgIAogICAgICAgIGZpZWxkX2RldmljZXMgLT4gaHlkcm90ZWwgIlNlbmRpbmcgbGF0ZXN0IE9ic2VydmF0aW9ucyB0byIKCiAgICAgICAgZmllbGRfY29sbGVjdG9yIC0+IGZpZWxkX2NhcHR1cmVfYXBwcyAiQ2FwdHVyZXMgT2JzZXJ2YXRpb25zIGluIgogICAgICAgIGZpZWxkX2NvbGxlY3RvciAtPiBzYW1wbGVfcHJvY2Vzc2luZ19sYWJzICJTZW5kcyBzYW1wbGVzIHRvIgogICAgICAgIGZpZWxkX2NhcHR1cmVfYXBwcyAtPiBlb20gIlNlbmQgZmllbGQgY2FwdHVyZWQgT2JzZXJ2YXRpb25zIHRvIgogICAgICAgIHNhbXBsZV9wcm9jZXNzaW5nX2xhYnMgLT4gZW9tICJTZW5kIHByb2Nlc3NlZCBzYW1wbGUgT2JzZXJ2YXRpb25zIHRvIgogICAgICAgIAogICAgICAgIGh5ZHJvdGVsIC0+IGVvbSAiU2VuZHMgbGF0ZXN0IGRhdGEgdG8iCiAgICAgICAgaW50ZXJuYWxfY2FwdHVyZV9zeXN0ZW1zIC0+IGVvbSAiU2VuZHMgbGF0ZXN0IGRhdGEgdG8iCiAgICAgICAgZXh0ZXJuYWxfZGF0YV9mZWVkcyAtPiBlb20gIlNlbmRzIGxhdGVzdCBkYXRhIHRvIgogICAgICAgIGV4dGVybmFsX2RhdGFfc3RvcmVzIC0+IGVvbSAiRGF0YSBwdWxsZWQgZnJvbSIKICAgICAgICAKICAgICAgICBtYW5hZ2VyIC0+IGVvbSAiUmV2aWV3cyB0ZWxlbWV0cnkgZGF0YSBhbmQgbWFya3MgYXMgUUEnZWQiCiAgICAgICAgCiAgICAgICAgZW9tIC0+IGVvYSAiUmVwbGljYXRlcyBkYXRhIHRvIgogICAgICAgIGVvbSAtPiBlb3AgIlB1c2hlcyBuZXcgZGF0YSBldmVudHMgdG8iCiAgICAgICAgZW9hIC0+IGVvcCAiUmVhZHMgZGF0YSBmcm9tIgogICAgICAgIGVvcCAtPiBlb20gIlB1c2hlcyBkZXJpdmVkIE9ic2VydmF0aW9ucyB0byIKICAgIAogICAgICAgIGVvYSAtPiBleHRlcm5hbF9kYXRhX2NsaWVudF9wdXNoICJTZW5kcyBkYXRhIHRvIgogICAgICAgIGVvYSAtPiBleHRlcm5hbF9kYXRhX2NsaWVudF9wdWxsICJQdWxsIGRhdGEgZnJvbSIKCiAgICAgICAgZW9hIC0+IHB1YmxpY19mYWNpbmdfd2ViX3NpdGUgIlNlbmRzIGRhdGEgdG8iCiAgICAgICAgZW9tIC0+IHB1YmxpY19mYWNpbmdfd2ViX3NpdGUgIlNlbmRzIGxpdmUgZGF0YSB0byIKCiAgICAgICAgcmVzb3VyY2VfY29uc2VudHMgLT4gYWxsb2NhdGlvbnMgIlB1bGxzIGNvbnNlbnRlZCBhbW91bnRzIGFzIGFsbG9jYXRlZCIKICAgICAgICByZWdpb25hbF9wbGFuIC0+IGFsbG9jYXRpb25zICJQdWxscyBwbGFubmVkIGFsbG9jYXRpb24gbGltaXRzIgoKICAgICAgICByZXNvdXJjZV9jb25zZW50cyAtPiBlb3AgIlB1bGxzIHJlc291cmNlIGNvbnNlbnQgaW5mb3JtYXRpb24gZm9yIHRyaWdnZXJpbmcgYWxlcnRzIgogICAgICAgIGVvcCAtPiBjYSAiUHVibGlzaGVzIGNvbXBsaWFuY2UgYWxlcnRzIHRvIgogICAgICAgIGVvYSAtPiBjYyAiUHVsbHMgZW52aXJvbm1lbnRhbCBPYnNlcnZhdGlvbnMgZm9yIGNvbXBhcnNpb24iCiAgICAgICAgcmVzb3VyY2VfY29uc2VudHMgLT4gY2MgIlB1bGxzIHJlc291cmNlIGNvbnNlbnQgaW5mb3JtYXRpb24gZm9yIGNvbXBhcnNpb24iCgogICAgICAgIGVvYSAtPiBwbCAiUHVsbHMgb2JzZXJ2YXRpb25zIGZvciBjb21wYXJzaW9uIGxpbWl0cyIKICAgICAgICByZWdpb25hbF9wbGFuIC0+IHBsICJQcm92aWRlcyB0aGUgbGltaXQgaW5mb3JtYXRpb24gZm9yIGNvbXBhcnNpb24iCiAgICAgICAgZ2VvX25ldHdvcmsgLT4gcGwgIlByb3ZpZGVzIGJvdW5kYXJ5IGluZm9ybWF0aW9uIGZvciB2aWV3aW5nIGxpbWl0cyBieSBhcmVhIgoKICAgICAgICAjIGVvbSAtPiBpbnRlcm5hbF9tb25pdG9yaW5nX3N5c3RlbXMgIlB1c2hlcyBsYXRlc3QgZGF0YSB0byIKICAgICAgICAKICAgICAgICAjIGVvYSAtPiBpbnRlcm5hbF9idXNpbmVzc19wcm9jZXNzX3N5c3RlbXMgIlNlbmRzIGRhdGEgdG8iCiAgICAgICAgIyBlb20gLT4gaW50ZXJuYWxfYnVzaW5lc3NfcHJvY2Vzc19zeXN0ZW1zICJTZW5kcyBsaXZlIGRhdGEgdG8iCiAgICAgICAgIyBvdGhlcl9idXNpbmVzc19kYXRhX3N0b3JlIC0+IGludGVybmFsX2J1c2luZXNzX3Byb2Nlc3Nfc3lzdGVtcyAiU2VuZHMgbm9uLUVudmlyb25tZW50IGRhdGEgdG8iCiAgICB9CiAgICAKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1MYW5kc2NhcGUgIlN5c3RlbUxhbmRzY2FwZSIgIk92ZXJ2aWV3IiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgIH0KICAgICAgICAKICAgICAgICBzdHlsZXMgewogICAgICAgICAgICBlbGVtZW50ICJQZXJzb24iIHsKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzk5OTk5OQogICAgICAgICAgICAgICAgZm9udFNpemUgMjIKICAgICAgICAgICAgICAgIHNoYXBlIFBlcnNvbgogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBlbGVtZW50ICJDb3VuY2lsIFN0YWZmIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICMwODQyN2IKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgZWxlbWVudCAiU29mdHdhcmUgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICMxMTY4YmQKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgZWxlbWVudCAiRXhpc3RpbmcgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZWxlbWVudCAiR2VuZXJpYyBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgI0ZGQjZDMQogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CgogICAgICAgICAgICBlbGVtZW50ICJXZWIgQXBwIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBXZWJCcm93c2VyCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICNGRjk5MDAKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZWxlbWVudCAiTW9iaWxlIEFwcCIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjRkY5OTAwCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgICAgICBzaGFwZSBNb2JpbGVEZXZpY2VMYW5kc2NhcGUKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICB9CiAgICB9Cgp9Cg=="
   },
   "configuration" : { },
   "model" : {
@@ -19,17 +17,17 @@
       "name" : "Field Collector",
       "description" : "User who is taking Observations / Samples in the field",
       "relationships" : [ {
-        "id" : "27",
-        "tags" : "Relationship",
-        "sourceId" : "1",
-        "destinationId" : "4",
-        "description" : "Sends samples to"
-      }, {
         "id" : "26",
         "tags" : "Relationship",
         "sourceId" : "1",
         "destinationId" : "3",
         "description" : "Captures Observations in"
+      }, {
+        "id" : "27",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "4",
+        "description" : "Sends samples to"
       } ],
       "location" : "External"
     }, {
@@ -47,11 +45,101 @@
       "location" : "Internal"
     } ],
     "softwareSystems" : [ {
-      "id" : "24",
-      "tags" : "Element,Software System,Web App",
-      "name" : "Council public Website",
-      "description" : "Council website with Environmental data. e.g. Flow Viewers, Water Quality Reporting",
-      "group" : "Public",
+      "id" : "2",
+      "tags" : "Element,Software System,Existing System",
+      "name" : "Telemetry Devices",
+      "description" : "Council Managed Telemetry capturing devices. e.g. River Guages, Rainfall Meters, Air Quality Sensors",
+      "relationships" : [ {
+        "id" : "25",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "9",
+        "description" : "Sending latest Observations to"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "3",
+      "tags" : "Element,Software System,Mobile App",
+      "name" : "Field Capture Tools",
+      "description" : "Field tools used by Council staff to capture Observations. e.g. Water Quality Samples, Ecosystem health survey",
+      "relationships" : [ {
+        "id" : "28",
+        "tags" : "Relationship",
+        "sourceId" : "3",
+        "destinationId" : "12",
+        "description" : "Send field captured Observations to"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "4",
+      "tags" : "Element,Software System,Existing System",
+      "name" : "Processing Labs",
+      "description" : "Laboratories that processes field samples",
+      "relationships" : [ {
+        "id" : "29",
+        "tags" : "Relationship",
+        "sourceId" : "4",
+        "destinationId" : "12",
+        "description" : "Send processed sample Observations to"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System,Generic System",
+      "name" : "External Data Feeds",
+      "description" : "Third party data being pushed e.g. Consent Holder Water Abstraction Information, Citizen Science",
+      "relationships" : [ {
+        "id" : "32",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "12",
+        "description" : "Sends latest data to"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "6",
+      "tags" : "Element,Software System,Generic System",
+      "name" : "External Data Sources",
+      "description" : "Third party data which can be pulled e.g. Metservice coded data",
+      "relationships" : [ {
+        "id" : "33",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "12",
+        "description" : "Data pulled from"
+      } ],
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "7",
+      "tags" : "Element,Software System,Generic System",
+      "name" : "External Data Stores",
+      "description" : "External systems where data is pushed to. e.g. LAWA, Core-16",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "8",
+      "tags" : "Element,Software System,Generic System",
+      "name" : "External Data Clients",
+      "description" : "External systems that pull data. e.g. Application Developers, Engineering Firms, NIWA",
+      "location" : "External",
+      "documentation" : { }
+    }, {
+      "id" : "9",
+      "tags" : "Element,Software System,Existing System",
+      "name" : "Hydrotel System",
+      "description" : "Hydrotel where Telemetry data lands first.",
+      "relationships" : [ {
+        "id" : "30",
+        "tags" : "Relationship",
+        "sourceId" : "9",
+        "destinationId" : "12",
+        "description" : "Sends latest data to"
+      } ],
       "location" : "Internal",
       "documentation" : { }
     }, {
@@ -69,37 +157,16 @@
       "location" : "Internal",
       "documentation" : { }
     }, {
-      "id" : "15",
-      "tags" : "Element,Software System",
-      "name" : "Geospatial Monitoring Network",
-      "description" : "API for access to the Geospatial",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "9",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "Hydrotel System",
-      "description" : "Hydrotel where Telemetry data lands first.",
-      "relationships" : [ {
-        "id" : "30",
-        "tags" : "Relationship",
-        "sourceId" : "9",
-        "destinationId" : "12",
-        "description" : "Sends latest data to"
-      } ],
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
       "id" : "12",
       "tags" : "Element,Software System",
       "name" : "Aquisition and Management",
       "description" : "Where new Observations are landed and QA processes done. Transactional side of managing data e.g. Managing which Telemetry data requires QA, and tools to apply quality codind",
       "relationships" : [ {
-        "id" : "42",
+        "id" : "35",
         "tags" : "Relationship",
         "sourceId" : "12",
-        "destinationId" : "24",
-        "description" : "Sends live data to"
+        "destinationId" : "13",
+        "description" : "Replicates data to"
       }, {
         "id" : "36",
         "tags" : "Relationship",
@@ -107,11 +174,11 @@
         "destinationId" : "14",
         "description" : "Pushes new data events to"
       }, {
-        "id" : "35",
+        "id" : "42",
         "tags" : "Relationship",
         "sourceId" : "12",
-        "destinationId" : "13",
-        "description" : "Replicates data to"
+        "destinationId" : "24",
+        "description" : "Sends live data to"
       } ],
       "group" : "EDMS",
       "location" : "Internal",
@@ -145,37 +212,21 @@
         "sourceId" : "13",
         "destinationId" : "24",
         "description" : "Sends data to"
+      }, {
+        "id" : "47",
+        "tags" : "Relationship",
+        "sourceId" : "13",
+        "destinationId" : "21",
+        "description" : "Pulls environmental Observations for comparsion"
+      }, {
+        "id" : "49",
+        "tags" : "Relationship",
+        "sourceId" : "13",
+        "destinationId" : "23",
+        "description" : "Pulls observations for comparsion limits"
       } ],
       "group" : "EDMS",
       "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "21",
-      "tags" : "Element,Software System,Web App",
-      "name" : "Complicance Checking",
-      "group" : "Compliance",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "8",
-      "tags" : "Element,Software System,Generic System",
-      "name" : "External Data Clients",
-      "description" : "External systems that pull data. e.g. Application Developers, Engineering Firms, NIWA",
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "6",
-      "tags" : "Element,Software System,Generic System",
-      "name" : "External Data Sources",
-      "description" : "Third party data which can be pulled e.g. Metservice coded data",
-      "relationships" : [ {
-        "id" : "33",
-        "tags" : "Relationship",
-        "sourceId" : "6",
-        "destinationId" : "12",
-        "description" : "Data pulled from"
-      } ],
-      "location" : "External",
       "documentation" : { }
     }, {
       "id" : "14",
@@ -188,120 +239,130 @@
         "sourceId" : "14",
         "destinationId" : "12",
         "description" : "Pushes derived Observations to"
-      } ],
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "7",
-      "tags" : "Element,Software System,Generic System",
-      "name" : "External Data Stores",
-      "description" : "External systems where data is pushed to. e.g. LAWA, Core-16",
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "3",
-      "tags" : "Element,Software System,Mobile App",
-      "name" : "Field Capture Tools",
-      "description" : "Field tools used by Council staff to capture Observations. e.g. Water Quality Samples, Ecosystem health survey",
-      "relationships" : [ {
-        "id" : "28",
+      }, {
+        "id" : "46",
         "tags" : "Relationship",
-        "sourceId" : "3",
-        "destinationId" : "12",
-        "description" : "Send field captured Observations to"
+        "sourceId" : "14",
+        "destinationId" : "22",
+        "description" : "Publishes compliance alerts to"
       } ],
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "18",
-      "tags" : "Element,Software System,Web App",
-      "name" : "Flood Prediction",
-      "group" : "Emergency Monitoring",
       "location" : "Internal",
       "documentation" : { }
     }, {
-      "id" : "2",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "Telemetry Devices",
-      "description" : "Council Managed Telemetry capturing devices. e.g. River Guages, Rainfall Meters, Air Quality Sensors",
+      "id" : "15",
+      "tags" : "Element,Software System",
+      "name" : "Geospatial Network",
+      "description" : "Model of sampling sites and their relationship to catchments, territories, citys",
       "relationships" : [ {
-        "id" : "25",
+        "id" : "51",
         "tags" : "Relationship",
-        "sourceId" : "2",
-        "destinationId" : "9",
-        "description" : "Sending latest Observations to"
+        "sourceId" : "15",
+        "destinationId" : "23",
+        "description" : "Provides boundary information for viewing limits by area"
       } ],
-      "location" : "External",
-      "documentation" : { }
-    }, {
-      "id" : "20",
-      "tags" : "Element,Software System,Web App",
-      "name" : "Allocations",
-      "group" : "Consenting",
       "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "22",
-      "tags" : "Element,Software System,Web App",
-      "name" : "Complicance Alerting",
-      "group" : "Compliance",
-      "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "5",
-      "tags" : "Element,Software System,Generic System",
-      "name" : "External Data Feeds",
-      "description" : "Third party data being pushed e.g. Consent Holder Water Abstraction Information, Citizen Science",
-      "relationships" : [ {
-        "id" : "32",
-        "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "12",
-        "description" : "Sends latest data to"
-      } ],
-      "location" : "External",
       "documentation" : { }
     }, {
       "id" : "16",
       "tags" : "Element,Software System",
       "name" : "Digitised Regional Plan",
-      "description" : "API for accessing regional plan",
+      "description" : "Model of the regional plan to allow comparsion between environmental observations and plan outcomes",
+      "relationships" : [ {
+        "id" : "44",
+        "tags" : "Relationship",
+        "sourceId" : "16",
+        "destinationId" : "20",
+        "description" : "Pulls planned allocation limits"
+      }, {
+        "id" : "50",
+        "tags" : "Relationship",
+        "sourceId" : "16",
+        "destinationId" : "23",
+        "description" : "Provides the limit information for comparsion"
+      } ],
       "location" : "Internal",
       "documentation" : { }
     }, {
       "id" : "17",
       "tags" : "Element,Software System,Existing System",
       "name" : "IRIS - Resource Consents",
-      "description" : "Provides resource consent information",
+      "description" : "Model of the resource consents and the limits that can be compared with observations",
+      "relationships" : [ {
+        "id" : "43",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "20",
+        "description" : "Pulls consented amounts as allocated"
+      }, {
+        "id" : "45",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "14",
+        "description" : "Pulls resource consent information for triggering alerts"
+      }, {
+        "id" : "48",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "21",
+        "description" : "Pulls resource consent information for comparsion"
+      } ],
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "18",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Flood Prediction",
+      "description" : "Viewer for flood likleyhood in a given area, based off long term environmental observations",
+      "group" : "Emergency Monitoring",
       "location" : "Internal",
       "documentation" : { }
     }, {
       "id" : "19",
       "tags" : "Element,Software System,Mobile App",
       "name" : "Flood Event Monitoring",
+      "description" : "Viewer for current state in a severe weather event, based off real time data",
       "group" : "Emergency Monitoring",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "20",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Allocations",
+      "description" : "Viewer for how much resource has been allocated via consents vs the regional plan goals",
+      "group" : "Consenting",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "21",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Compliance Checking",
+      "description" : "Viewer to allow compliance officers view behaviour of consent holders vs resource consent conditions",
+      "group" : "Compliance",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "22",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Compliance Alerting",
+      "description" : "Alerting application to help compliance officers manage when consent holders have broken resource consent conditions",
+      "group" : "Compliance",
       "location" : "Internal",
       "documentation" : { }
     }, {
       "id" : "23",
       "tags" : "Element,Software System,Web App",
       "name" : "Plan vs Limits",
+      "description" : "Viewer for how limit / targets set out int he regional plan are being met",
       "group" : "Planning",
       "location" : "Internal",
       "documentation" : { }
     }, {
-      "id" : "4",
-      "tags" : "Element,Software System,Existing System",
-      "name" : "Processing Labs",
-      "description" : "Laboratories that processes field samples",
-      "relationships" : [ {
-        "id" : "29",
-        "tags" : "Relationship",
-        "sourceId" : "4",
-        "destinationId" : "12",
-        "description" : "Send processed sample Observations to"
-      } ],
-      "location" : "External",
+      "id" : "24",
+      "tags" : "Element,Software System,Web App",
+      "name" : "Council public Website",
+      "description" : "Council website with Environmental data. e.g. Flow Viewers, Water Quality Reporting, Plan vs Limits.",
+      "group" : "Public",
+      "location" : "Internal",
       "documentation" : { }
     } ]
   },
@@ -312,113 +373,111 @@
       "key" : "SystemLandscape",
       "order" : 1,
       "dimensions" : {
-        "width" : 7531,
-        "height" : 5557
+        "width" : 7731,
+        "height" : 5757
       },
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "22",
-        "x" : 6095,
-        "y" : 1710
+        "x" : 6395,
+        "y" : 3035
       }, {
         "id" : "23",
-        "x" : 6095,
-        "y" : 4085
+        "x" : 6395,
+        "y" : 4043
       }, {
         "id" : "24",
-        "x" : 6095,
-        "y" : 1710
+        "x" : 6395,
+        "y" : 2531
       }, {
         "id" : "10",
-        "x" : 2650,
-        "y" : 4022
+        "x" : 2954,
+        "y" : 4088
       }, {
         "id" : "11",
-        "x" : 3667,
-        "y" : 1645
+        "x" : 4036,
+        "y" : 1711
       }, {
         "id" : "12",
-        "x" : 3633,
-        "y" : 2387
+        "x" : 4002,
+        "y" : 2453
       }, {
         "id" : "13",
-        "x" : 4455,
-        "y" : 2395
+        "x" : 4824,
+        "y" : 2461
       }, {
         "id" : "14",
-        "x" : 4080,
-        "y" : 3025
+        "x" : 4384,
+        "y" : 3091
       }, {
         "id" : "15",
-        "x" : 4080,
-        "y" : 3583
+        "x" : 4384,
+        "y" : 3649
       }, {
         "id" : "16",
-        "x" : 4080,
-        "y" : 4141
+        "x" : 4384,
+        "y" : 4207
       }, {
         "id" : "17",
-        "x" : 4080,
-        "y" : 4700
+        "x" : 4384,
+        "y" : 4766
       }, {
         "id" : "18",
-        "x" : 6095,
-        "y" : 2845
+        "x" : 6395,
+        "y" : 2027
       }, {
         "id" : "19",
-        "x" : 6090,
-        "y" : 2250
+        "x" : 6395,
+        "y" : 1523
       }, {
         "id" : "1",
-        "x" : 537,
-        "y" : 2245
+        "x" : 841,
+        "y" : 2311
       }, {
         "id" : "2",
-        "x" : 1477,
-        "y" : 1310
+        "x" : 1781,
+        "y" : 1376
       }, {
         "id" : "3",
-        "x" : 1430,
-        "y" : 2062
+        "x" : 1734,
+        "y" : 2128
       }, {
         "id" : "4",
-        "x" : 1450,
-        "y" : 2667
+        "x" : 1754,
+        "y" : 2733
       }, {
         "id" : "5",
-        "x" : 1447,
-        "y" : 3205
+        "x" : 1751,
+        "y" : 3271
       }, {
         "id" : "6",
-        "x" : 1442,
-        "y" : 3700
+        "x" : 1746,
+        "y" : 3766
       }, {
         "id" : "7",
-        "x" : 5245,
-        "y" : 530
+        "x" : 5549,
+        "y" : 596
       }, {
         "id" : "8",
-        "x" : 5840,
-        "y" : 535
+        "x" : 6144,
+        "y" : 601
       }, {
         "id" : "9",
-        "x" : 2650,
-        "y" : 1335
+        "x" : 2954,
+        "y" : 1401
       }, {
         "id" : "20",
-        "x" : 6095,
-        "y" : 1100
+        "x" : 6395,
+        "y" : 4550
       }, {
         "id" : "21",
-        "x" : 6095,
-        "y" : 3395
+        "x" : 6395,
+        "y" : 3539
       } ],
       "relationships" : [ {
-        "id" : "40"
+        "id" : "50"
       }, {
-        "id" : "41"
-      }, {
-        "id" : "42"
+        "id" : "51"
       }, {
         "id" : "32"
       }, {
@@ -432,11 +491,35 @@
       }, {
         "id" : "27"
       }, {
-        "id" : "37"
-      }, {
         "id" : "26"
       }, {
         "id" : "25"
+      }, {
+        "id" : "44"
+      }, {
+        "id" : "45",
+        "vertices" : [ {
+          "x" : 3920,
+          "y" : 4210
+        } ]
+      }, {
+        "id" : "46"
+      }, {
+        "id" : "47"
+      }, {
+        "id" : "48"
+      }, {
+        "id" : "49"
+      }, {
+        "id" : "40"
+      }, {
+        "id" : "41"
+      }, {
+        "id" : "42"
+      }, {
+        "id" : "43"
+      }, {
+        "id" : "37"
       }, {
         "id" : "36"
       }, {
@@ -448,8 +531,8 @@
       }, {
         "id" : "38",
         "vertices" : [ {
-          "x" : 4394,
-          "y" : 2848
+          "x" : 4698,
+          "y" : 2914
         } ]
       }, {
         "id" : "39"

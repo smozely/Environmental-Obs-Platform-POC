@@ -26,30 +26,30 @@ workspace "Environmental Observations" "POC for Environmental Observations" {
             
             eop = softwareSystem "Event Driven Analysis / Alerting" "Where Observational data is processed to created derived Observations, trigger automated QA processes or alerting based on data anomalies. Event driven or batch. e.g. Gaugings to Flow, Naturalized flows, Data anomalies identified"
 
-            monitoring_network = softwareSystem "Geospatial Monitoring Network" "API for access to the Geospatial "
-            regional_plan = softwareSystem "Digitised Regional Plan" "API for accessing regional plan"
-            resource_consents = softwareSystem "IRIS - Resource Consents" "Provides resource consent information" "Existing System"
+            geo_network = softwareSystem "Geospatial Network" "Model of sampling sites and their relationship to catchments, territories, citys"
+            regional_plan = softwareSystem "Digitised Regional Plan" "Model of the regional plan to allow comparsion between environmental observations and plan outcomes"
+            resource_consents = softwareSystem "IRIS - Resource Consents" "Model of the resource consents and the limits that can be compared with observations" "Existing System"
 
             group "Emergency Monitoring" {
-                softwareSystem "Flood Prediction" "" "Web App"
-                softwareSystem "Flood Event Monitoring" "" "Mobile App"                
+                softwareSystem "Flood Prediction" "Viewer for flood likleyhood in a given area, based off long term environmental observations" "Web App"
+                softwareSystem "Flood Event Monitoring" "Viewer for current state in a severe weather event, based off real time data" "Mobile App"                
             }
 
             group "Consenting" {
-                softwareSystem "Allocations" "" "Web App"                
+                allocations = softwareSystem "Allocations" "Viewer for how much resource has been allocated via consents vs the regional plan goals" "Web App"                
             }
 
             group "Compliance" {
-                softwareSystem "Complicance Checking" "" "Web App"
-                softwareSystem "Complicance Alerting" "" "Web App"
+                cc = softwareSystem "Compliance Checking" "Viewer to allow compliance officers view behaviour of consent holders vs resource consent conditions" "Web App"
+                ca = softwareSystem "Compliance Alerting" "Alerting application to help compliance officers manage when consent holders have broken resource consent conditions" "Web App"
             }
 
             group "Planning" {
-                softwareSystem "Plan vs Limits" "" "Web App"                
+                pl = softwareSystem "Plan vs Limits" "Viewer for how limit / targets set out int he regional plan are being met" "Web App"                
             }
 
             group "Public" {
-                public_facing_web_site = softwareSystem "Council public Website" "Council website with Environmental data. e.g. Flow Viewers, Water Quality Reporting" "Web App"
+                public_facing_web_site = softwareSystem "Council public Website" "Council website with Environmental data. e.g. Flow Viewers, Water Quality Reporting, Plan vs Limits." "Web App"
             }
 
             # internal_reporting_systems = softwareSystem "Data reporting systems. e.g. GIS Viewers, Power BI Reports" 
@@ -83,7 +83,17 @@ workspace "Environmental Observations" "POC for Environmental Observations" {
         eoa -> public_facing_web_site "Sends data to"
         eom -> public_facing_web_site "Sends live data to"
 
-        # eoa -> internal_reporting_systems "Sends reporting data to"
+        resource_consents -> allocations "Pulls consented amounts as allocated"
+        regional_plan -> allocations "Pulls planned allocation limits"
+
+        resource_consents -> eop "Pulls resource consent information for triggering alerts"
+        eop -> ca "Publishes compliance alerts to"
+        eoa -> cc "Pulls environmental Observations for comparsion"
+        resource_consents -> cc "Pulls resource consent information for comparsion"
+
+        eoa -> pl "Pulls observations for comparsion limits"
+        regional_plan -> pl "Provides the limit information for comparsion"
+        geo_network -> pl "Provides boundary information for viewing limits by area"
 
         # eom -> internal_monitoring_systems "Pushes latest data to"
         
